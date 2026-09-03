@@ -16,7 +16,7 @@ Human Energy Economics examines how organizations preserve, develop, connect, en
 
 ## The HEE Ecosystem
 
-The HEE ecosystem consists of six complementary frameworks that translate the foundational theory into management and execution logic.
+The HEE ecosystem consists of **six complementary frameworks** supported by a broader management and operating architecture.
 
 ```text
                          HUMAN ENERGY ECONOMICS
@@ -50,7 +50,15 @@ The HEE ecosystem consists of six complementary frameworks that translate the fo
 | **HEEn** | Enables available Human Energy and capability to become effective application |
 | **EES** | Manages reliable, adaptive, sustainable execution |
 
-**The core logic:** HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary demand. 3C directs attention. 5R determines disposition. HEEn enables application. EES manages execution.
+The broader HEE operating architecture also includes supporting mechanisms for Human Energy diagnosis, recovery, development, and management:
+
+**HEA · HERF · HEDP · HEMS**
+
+### The Core Logic
+
+> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary demand. 3C directs attention. 5R determines disposition. HEEn enables application. EES manages execution.**
+
+These mechanisms are **complementary**, not a single mandatory sequence.
 
 ---
 
@@ -117,7 +125,7 @@ OSF focuses on unnecessary recurring operational demand and operational noise th
 
 HEEn addresses the organizational conditions that allow available Human Energy and capability to become effective application and sustainable execution.
 
-→ [Explore HEEn](https://github.com/titumozammel/human-energy-enablement)
+→ [Explore HEEn](https://github.com/titumozzamel/human-energy-enablement)
 
 ### EES — Execution Excellence System
 
@@ -131,7 +139,7 @@ EES manages the system through which intent and decisions become coordinated act
 
 ## From Capacity to Value
 
-The HEE ecosystem ultimately connects organizational conditions to sustainable value:
+The HEE ecosystem connects organizational potential and conditions to sustainable execution and value:
 
 ```text
 Human Energy
@@ -152,6 +160,9 @@ Sustainable Execution Capacity
       ↓
 Sustainable Business Value
 ```
+
+> **Capability = Potential.**  
+> **Capacity = Ability to mobilize and apply potential.**
 
 The objective is not simply to improve today's output.
 
@@ -176,7 +187,9 @@ It is to strengthen the capacity required for tomorrow's execution.
 
 The six frameworks are maintained as **Version 1.0 canonical editions** within the HEE ecosystem.
 
-The conceptual architecture is established. Ongoing work focuses on documentation, application, research, measurement development, and empirical validation.
+The conceptual architecture is established.
+
+Ongoing work focuses on **documentation, application, research, measurement development, and empirical validation.**
 
 ---
 
