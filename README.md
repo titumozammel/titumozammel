@@ -45,20 +45,34 @@ The HEE ecosystem consists of **six complementary frameworks** supported by a br
 |---|---|
 | **HEE** | Foundational theory and economic lens |
 | **OSF** | Reduces unnecessary recurring operational demand |
-| **3C** | Directs strategic attention toward Source, Dependency, or Constraint |
+| **3C** | Directs contextual attention toward Source, Dependency, or Constraint |
 | **5R** | Determines the disposition of recurring demand |
 | **HEEn** | Enables available Human Energy and capability to become effective application |
 | **EES** | Manages reliable, adaptive, sustainable execution |
 
-The broader HEE operating architecture also includes supporting mechanisms for Human Energy diagnosis, recovery, development, and management:
+The broader HEE operating architecture also includes **supporting mechanisms and architectural components** for Human Energy diagnosis, recovery, development, management, and capability connection:
 
-**HEA · HERF · HEDP · HEMS**
+**HEA · HERF · HEDP · HEMS · Capability Interconnection**
 
 ### The Core Logic
 
-> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary demand. 3C directs attention. 5R determines disposition. HEEn enables application. EES manages execution.**
+> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary recurring operational demand. 3C directs contextual attention. 5R determines disposition. HEEn enables application. EES manages execution.**
 
-These mechanisms are **complementary**, not a single mandatory sequence.
+These mechanisms are **complementary, not a single mandatory sequence**. Their use depends on the organizational condition, problem, and point of intervention being examined.
+
+---
+
+## Shared Prioritization Heuristic
+
+Several frameworks in the HEE ecosystem — **HEE, OSF, 3C, 5R, EES, and HEEn** — use a common heuristic for directing attention when multiple conditions compete for limited capacity:
+
+> **Priority = Urgency × Interdependence × Value Impact**
+
+This is **shared ecosystem infrastructure**, not a formula independently derived by any single framework. Each framework document references it rather than deriving it separately.
+
+**Interdependence** refers to the magnitude of relationships affecting movement, action, or outcomes. It is distinct from **3C's Dependency** context — a specific condition in which action, decision, or execution depends upon another person, function, approval, system, resource, or condition. The two terms should not be treated as interchangeable.
+
+The heuristic is a **management aid, not a validated mathematical law**. Its purpose is to help direct attention toward conditions that are urgent, materially interdependent with other work, and significant in value impact — rather than automatically addressing the largest visible problem.
 
 ---
 
@@ -125,7 +139,7 @@ OSF focuses on unnecessary recurring operational demand and operational noise th
 
 HEEn addresses the organizational conditions that allow available Human Energy and capability to become effective application and sustainable execution.
 
-→ [Explore HEEn](https://github.com/titumozzamel/human-energy-enablement)
+→ [Explore HEEn](https://github.com/titumozammel/human-energy-enablement)
 
 ### EES — Execution Excellence System
 
@@ -139,30 +153,34 @@ EES manages the system through which intent and decisions become coordinated act
 
 ## From Capacity to Value
 
-The HEE ecosystem connects organizational potential and conditions to sustainable execution and value:
+The HEE ecosystem connects organizational potential and conditions to sustainable execution and value. The relationship among these elements is **conceptual and interdependent — not a fixed sequence every organization must follow in the same order**.
+
+The following hub-and-spoke representation is the **authoritative ecosystem relationship representation**. It is not a mandatory intervention sequence.
 
 ```text
-Human Energy
-      ↓
-Capability
-      ↓
-Connection
-      ↓
-Enablement
-      ↓
-Effective Application
-      ↓
-Execution
-      ↓
-Learning & Adaptation
-      ↓
-Sustainable Execution Capacity
-      ↓
-Sustainable Business Value
+                    Human Energy
+                         │
+    ┌────────────────────┼────────────────────┐
+    │                    │                    │
+Capability           Connection           Enablement
+    │                    │                    │
+    └────────────────────┼────────────────────┘
+                         │
+               Effective Application
+                         │
+                    Execution
+                         │
+              Learning & Adaptation
+                         │
+             Sustainable Execution Capacity
+                         │
+             Sustainable Business Value
 ```
 
-> **Capability = Potential.**  
-> **Capacity = Ability to mobilize and apply potential.**
+**Capability = Potential.**  
+**Capacity = Application.**
+
+Human Energy, Capability, Connection, and Enablement interact with one another rather than occurring in strict sequence — a condition may involve several of these simultaneously. Effective Application, Execution, and the outcomes that follow represent the conversion of that interacting foundation into results.
 
 The objective is not simply to improve today's output.
 
