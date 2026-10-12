@@ -2,215 +2,116 @@
 
 **Independent Management Researcher | Originator of Human Energy Economics (HEE)**
 
----
+*A developing, practice-driven management approach to organizational capacity and sustainable execution.*
 
-## Human Energy Economics (HEE)
-
-**A theory of organizational capacity and sustainable execution.**
-
-Human Energy Economics examines how organizations preserve, develop, connect, enable, and apply the capacity required to produce results repeatedly without degrading their future ability to execute.
-
-**Core proposition:** *Extraction depletes. Cultivation compounds.*
+[Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee) · [Open Research on GitHub](https://github.com/titumozammel) · [Amazon Author Page](https://www.amazon.com/author/mozammelhoque)
 
 ---
+
+## Human Energy Economics
+
+**Human Energy Economics (HEE)** examines why organizations with capable people and sound strategies can still struggle to execute—and what needs to change in a given context.
+
+HEE uses context-based observation to examine the organizational conditions that enable, constrain, or drain the capacity required to translate capability into execution and execution into value. It does not assume a common cause or prescribe a universal solution. Instead, it seeks to identify interventions appropriate to the context.
+
+**Central question:**
+
+*What prevents the capability we have from becoming execution, and what must change next?*
+
+**Core proposition:**
+
+> Extraction depletes. Cultivation compounds.
+
+HEE also explores a broader management challenge: how organizations can produce results repeatedly without degrading the capacity needed to produce them.
+
+My practical experience across Russia, West Africa, and Bangladesh provides context for HEE's development, but it does not constitute independent validation. HEE remains a developing approach, open to critical examination and empirical testing.
+
+## Book
+
+**_Human Energy Economics: Turning Organizational Drain into Capacity for Growth_ (2026)**
+
+- [Kindle eBook](https://www.amazon.com/dp/B0HMJLPTW1)
+- [Paperback](https://www.amazon.com/dp/B0HMKPTJ9V)
 
 ## The HEE Ecosystem
 
-The HEE ecosystem consists of **six complementary frameworks** supported by a broader management and operating architecture.
+The HEE ecosystem connects six principal frameworks, beginning with HEE as the foundational approach. Each framework has a distinct role. Together, they provide a conceptual architecture for examining organizational conditions, directing attention, reducing unnecessary demand, enabling application, and managing execution.
 
-```text
-                         HUMAN ENERGY ECONOMICS
-                                  HEE
-                    Foundational Theory / Economic Lens
-                                  │
-                            OEOS / OOS
-                  Management & Operating Architecture
-                                  │
-          ┌──────────────┬────────┼────────┬──────────────┐
-          │              │        │        │              │
-         OSF            3C       5R      HEEn            EES
-      Demand /       Attention  Disposition Enablement   Execution
-        Noise
-          │              │        │        │              │
-          └──────────────┴────────┴────────┴──────────────┘
-                                  │
-                    Sustainable Execution Capacity
-                                  │
-                    Sustainable Business Value
-```
-
-### Framework Roles
-
-| Framework | Role |
+| Framework | Focus |
 |---|---|
-| **HEE** | Foundational theory and economic lens |
-| **OSF** | Reduces unnecessary recurring operational demand |
-| **3C** | Directs contextual attention toward Source, Dependency, or Constraint |
-| **5R** | Determines the disposition of recurring demand |
-| **HEEn** | Enables available Human Energy and capability to become effective application |
-| **EES** | Manages reliable, adaptive, sustainable execution |
+| **HEE — Human Energy Economics** | Provides the foundational concepts and economic lens for examining capacity, execution, value, and sustainable growth. |
+| **OSF — Operational Silence Framework** | Identifies and addresses unnecessary recurring operational demand and noise. |
+| **3C — Strategic Approach** | Directs contextual attention toward a Source, Dependency, or Constraint. |
+| **5R — Cascade Framework** | Guides disposition through Remove → Reduce → Replace → Re-engineer → Retain. |
+| **HEEn — Human Energy Enablement** | Examines how available human energy and capability can be enabled for effective application. |
+| **EES — Execution Excellence System** | Addresses reliable, adaptive, and sustainable execution. |
 
-The broader HEE operating architecture also includes **supporting mechanisms and architectural components** for Human Energy diagnosis, recovery, development, management, and capability connection:
+### Broader Architecture
 
-**HEA · HERF · HEDP · HEMS · Capability Interconnection**
+The HEE ecosystem also includes supporting mechanisms such as **HEA, HERF, HEDP, HEMS, and Capability Interconnection**. Their specific meanings and relationships should be understood through the relevant canonical documentation.
 
-### The Core Logic
+**Ecosystem logic, in brief:**
 
-> **HEE explains. OEOS/OOS orchestrates. OSF reduces unnecessary recurring operational demand. 3C directs contextual attention. 5R determines disposition. HEEn enables application. EES manages execution.**
+> HEE explains. OSF addresses unnecessary recurring operational demand. 3C directs contextual attention. 5R determines disposition. HEEn enables application. EES manages execution.
 
-These mechanisms are **complementary, not a single mandatory sequence**. Their use depends on the organizational condition, problem, and point of intervention being examined.
-
----
-
-## Shared Prioritization Heuristic
-
-Several frameworks in the HEE ecosystem — **HEE, OSF, 3C, 5R, EES, and HEEn** — use a common heuristic for directing attention when multiple conditions compete for limited capacity:
-
-> **Priority = Urgency × Interdependence × Value Impact**
-
-This is **shared ecosystem infrastructure**, not a formula independently derived by any single framework. Each framework document references it rather than deriving it separately.
-
-**Interdependence** refers to the magnitude of relationships affecting movement, action, or outcomes. It is distinct from **3C's Dependency** context — a specific condition in which action, decision, or execution depends upon another person, function, approval, system, resource, or condition. The two terms should not be treated as interchangeable.
-
-The heuristic is a **management aid, not a validated mathematical law**. Its purpose is to help direct attention toward conditions that are urgent, materially interdependent with other work, and significant in value impact — rather than automatically addressing the largest visible problem.
-
----
-
-## Where to Start
-
-**Start with HEE** for the foundational theory, then explore the framework most relevant to the organizational condition or execution problem being examined.
-
-1. **[Human Energy Economics (HEE)](https://github.com/titumozammel/human-energy-economics)** — Foundational theory and economic lens
-2. **[Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework)** — Operational noise and unnecessary recurring demand
-3. **[3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach)** — Strategic attention and context
-4. **[5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework)** — Disposition of recurring demand
-5. **[Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement)** — Organizational enablement and effective application
-6. **[Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system)** — Execution management and continuous improvement
-
----
-
-## The Central Question
-
-> **How can organizations produce results repeatedly without degrading the capacity required to produce them?**
-
-This question sits at the center of the HEE ecosystem.
-
----
-
-## The Six Frameworks
-
-### HEE — Human Energy Economics
-
-**A theory of organizational capacity and sustainable execution.**
-
-HEE provides the foundational economic lens for understanding Human Energy, capability, connection, enablement, execution, organizational drain, Sustainable Execution Capacity, and Sustainable Business Value.
-
-→ [Explore HEE](https://github.com/titumozammel/human-energy-economics)
-
-### OSF — Operational Silence Framework
-
-**Stop managing chaos. Start engineering silence.**
-
-OSF focuses on unnecessary recurring operational demand and operational noise that consume attention, time, coordination, and Human Energy.
-
-→ [Explore OSF](https://github.com/titumozammel/operational-silence-framework)
-
-### 3C — Strategic Approach
-
-**Direct attention to the condition that matters most.**
-
-3C directs organizational attention toward the **Source, Dependency, or Constraint** most relevant to improving effective application and execution.
-
-→ [Explore 3C](https://github.com/titumozammel/3c-strategic-approach)
-
-### 5R — Cascade Framework
-
-**Determine what should happen to recurring demand.**
-
-5R provides a tactical decision method for recurring demand:
-
-**REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
-
-→ [Explore 5R](https://github.com/titumozammel/5r-cascade-framework)
-
-### HEEn — Human Energy Enablement
-
-**Enable available Human Energy and capability for effective application.**
-
-HEEn addresses the organizational conditions that allow available Human Energy and capability to become effective application and sustainable execution.
-
-→ [Explore HEEn](https://github.com/titumozammel/human-energy-enablement)
-
-### EES — Execution Excellence System
-
-**Manage execution as a continuously improving system.**
-
-EES manages the system through which intent and decisions become coordinated action, results, learning, adaptation, and stronger future execution capability.
-
-→ [Explore EES](https://github.com/titumozammel/execution-excellence-system)
-
----
+This describes the conceptual roles of the six principal frameworks, not a mandatory sequence that every organization must follow.
 
 ## From Capacity to Value
 
-The HEE ecosystem connects organizational potential and conditions to sustainable execution and value. The relationship among these elements is **conceptual and interdependent — not a fixed sequence every organization must follow in the same order**.
+The ecosystem examines how the following elements interact in organizational performance:
 
-The following hub-and-spoke representation is the **authoritative ecosystem relationship representation**. It is not a mandatory intervention sequence.
+1. **Human Energy** — the human contribution available to an organization.
+2. **Capability** — the potential to perform.
+3. **Connection** — the relationships and interdependencies through which work is coordinated.
+4. **Enablement** — the conditions that allow capability to be applied.
+5. **Effective Application** — capability put to use in a particular context.
+6. **Execution** — coordinated action that produces outputs and outcomes.
+7. **Learning and Adaptation** — using experience and feedback to improve future action.
+8. **Sustainable Execution Capacity** — preserving and developing the ability to perform over time.
+9. **Sustainable Business Value** — creating value without undermining the capacity required for future performance.
 
-```text
-                    Human Energy
-                         │
-    ┌────────────────────┼────────────────────┐
-    │                    │                    │
-Capability           Connection           Enablement
-    │                    │                    │
-    └────────────────────┼────────────────────┘
-                         │
-               Effective Application
-                         │
-                    Execution
-                         │
-              Learning & Adaptation
-                         │
-             Sustainable Execution Capacity
-                         │
-             Sustainable Business Value
-```
+**A useful distinction:** Capability is potential. Capacity enables application.
 
-**Capability = Potential.**  
-**Capacity = Application.**
+These elements are related, but their relationships should not be interpreted as a universally validated causal sequence.
 
-Human Energy, Capability, Connection, and Enablement interact with one another rather than occurring in strict sequence — a condition may involve several of these simultaneously. Effective Application, Execution, and the outcomes that follow represent the conversion of that interacting foundation into results.
+## Shared Prioritization Heuristic
 
-The objective is not simply to improve today's output.
+The ecosystem uses the following heuristic to help structure prioritization:
 
-It is to strengthen the capacity required for tomorrow's execution.
+`Priority = Urgency × Interdependence × Value Impact`
 
----
+This is a shared conceptual heuristic, not a validated mathematical law or a substitute for contextual judgment.
 
-## Repositories
+**Interdependence** in this heuristic should not be confused with **Dependency** as a context in the 3C Strategic Approach. The terms serve different purposes.
 
-| Framework | Repository |
-|---|---|
-| **HEE** | [human-energy-economics](https://github.com/titumozammel/human-energy-economics) |
-| **OSF** | [operational-silence-framework](https://github.com/titumozammel/operational-silence-framework) |
-| **3C** | [3c-strategic-approach](https://github.com/titumozammel/3c-strategic-approach) |
-| **5R** | [5r-cascade-framework](https://github.com/titumozammel/5r-cascade-framework) |
-| **HEEn** | [human-energy-enablement](https://github.com/titumozammel/human-energy-enablement) |
-| **EES** | [execution-excellence-system](https://github.com/titumozammel/execution-excellence-system) |
+## Where to Start
 
----
+Explore the principal framework repositories:
 
-## Status
+- [Human Energy Economics (HEE)](https://github.com/titumozammel/human-energy-economics)
+- [Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework)
+- [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach)
+- [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework)
+- [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement)
+- [Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system)
 
-The six frameworks are maintained as **Version 1.0 canonical editions** within the HEE ecosystem.
+### Operating Observations
 
-The conceptual architecture is established.
+- [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) — documented operating observations that provide context for examining HEE concepts, not independent validation.
 
-Ongoing work focuses on **documentation, application, research, measurement development, and empirical validation.**
+## Research and Development Status
+
+The six principal frameworks are maintained as **Version 1.0 canonical editions** within the HEE ecosystem. Documentation, application, research, measurement development, and empirical testing remain ongoing.
+
+These editions identify the currently documented versions of the frameworks; they should not be interpreted as proof of independent validation or demonstrated effectiveness. HEE and its supporting frameworks remain open to critical review, refinement, and empirical examination.
+
+## Connect and Explore
+
+- **Website:** https://ovinabo.com/
+- **LinkedIn:** https://www.linkedin.com/in/mozammel-hee
+- **GitHub research:** https://github.com/titumozammel
+- **Amazon Author Page:** https://www.amazon.com/author/mozammelhoque
 
 ---
 
-## License
-
-MIT License
+*Human Energy Economics is a developing, practice-driven management approach. Its concepts and frameworks are offered for discussion, application, critical examination, and empirical testing.*
