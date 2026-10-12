@@ -41,7 +41,7 @@ The HEE ecosystem connects six principal frameworks, beginning with HEE as the f
 |---|---|
 | **HEE — Human Energy Economics** | Provides the foundational concepts and economic lens for examining capacity, execution, value, and sustainable growth. |
 | **OSF — Operational Silence Framework** | Identifies and addresses unnecessary recurring operational demand and noise. |
-| **3C — Strategic Approach** | Directs contextual attention toward a Source, Dependency, or Constraint. |
+| **3C — Strategic Approach** | Three contexts (Source, Dependency, Constraint) for examining where a problem comes from, what it depends on, and what restricts it, before deciding what to change. |
 | **5R — Cascade Framework** | Guides disposition through Remove → Reduce → Replace → Re-engineer → Retain. |
 | **HEEn — Human Energy Enablement** | Examines how available human energy and capability can be enabled for effective application. |
 | **EES — Execution Excellence System** | Addresses reliable, adaptive, and sustainable execution. |
