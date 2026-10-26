@@ -12,7 +12,7 @@ HEE offers a practical way to examine execution problems without assuming that e
 
 ---
 
-## The HEE perspective
+## The HEE Perspective
 
 Organizations need more than resources and capability. They need to apply capability effectively, execute reliably, create value, and preserve or renew the capacity required to do it again.
 
@@ -22,7 +22,7 @@ Organizations need more than resources and capability. They need to apply capabi
 
 The objective is not to minimize all expenditure of Human Energy or organizational capacity. Work necessarily consumes capacity. The question is whether that expenditure is justified and whether enough usable capacity will remain for foreseeable future demand.
 
-## Two questions before a decision
+## Two Questions Before a Decision
 
 For a material activity, demand, or decision, HEE proposes two complementary checks:
 
@@ -31,9 +31,9 @@ For a material activity, demand, or decision, HEE proposes two complementary che
 
 A justified expenditure can still leave future capacity fragile or uncovered. If coverage is unknown, that means evidence is insufficient—not that a shortfall has been proved.
 
-These checks are a proposed decision aid, not a validated prediction method. The [Core README](https://github.com/titumozammel/human-energy-economics) explains the coverage states, decision records, contingency requirements, and limitations.
+These checks are a proposed decision aid, not a validated prediction method. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) explains the coverage states, decision records, contingency requirements, and limitations.
 
-## What might be limiting execution?
+## What Might Be Limiting Execution?
 
 An execution problem does not automatically mean people lack ability. Capability may exist but be disconnected from the point of need, blocked by organizational conditions, misdirected by poor decisions, or consumed by excessive demand.
 
@@ -48,7 +48,7 @@ HEE uses six execution factors to structure inquiry:
 
 The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
 
-## From capability to sustained value
+## From Capability to Sustained Value
 
 **Capability → Application → Execution → Value → Sustainable Growth**
 
@@ -62,42 +62,95 @@ HEE’s guiding principle is:
 
 The point is not to avoid demanding work. It is to distinguish productive, necessary, developmental, and protective expenditure from avoidable drain—and to consider what capacity the next cycle will need.
 
-## Find the right route
+## Two Approaches: Diagnose Problems or Verify Practice
 
-Use the route that fits the question:
+HEE offers two distinct approaches, depending on the question that needs to be answered. They can complement each other, but they serve different purposes.
 
-- **A specific execution problem?** Start with diagnosis: examine symptoms, test possible causes, and identify what limits application.
-- **A defined standard that must be checked?** Use an audit route: compare actual practice with the standard and record the evidence.
-- **Not enough evidence to decide?** Establish what is known, what remains uncertain, and what evidence would change the decision.
+### **1. The Diagnostic Approach — Troubleshooting & Problem Solving**
 
-Diagnosis, evidence gathering, and verification are different tasks. Verification against a standard does not, by itself, explain why a problem occurred.
+**Start with a problem. Investigate what is causing it.**
 
-The Core README provides the detailed diagnostic conditions, response logic, question map, and decision tools. Supporting HEE mechanisms are selected according to the operational question; they are not a mandatory sequence.
+Use the Diagnostic Approach when execution breaks down, results fall short, rework accumulates, or capability fails to become effective application.
 
-## What HEE is—and is not
+The process is to:
+
+1. **Identify the problem:** Define the execution gap or unwanted outcome.
+2. **Examine the symptoms:** Establish what is happening, where, and under what conditions.
+3. **Investigate possible causes:** Test whether the limiting condition involves Depletion, Deficiency, Disconnection, Constraint, or an unresolved Execution Deficit.
+4. **Identify what limits application:** Distinguish the observed problem from its possible underlying causes.
+5. **Select a response:** Recover, Develop, Connect, Enable, or investigate further, according to the evidence.
+
+The objective is to understand the problem well enough to choose a proportionate response—not to assume that every execution failure requires more resources, more training, or more pressure.
+
+**The diagnostic logic:** Symptoms → Investigation → Tested explanation → Appropriate response.
+
+An **Execution Deficit** is a signal that execution is not producing the required result; it is not, by itself, an explanation of why. Further investigation is needed to identify the underlying condition.
+
+### **2. The Audit Approach — Verification & Governance**
+
+**Start with a defined standard. Check whether actual practice meets it.**
+
+Use the Audit Approach when a policy, procedure, control, requirement, or agreed standard must be verified.
+
+The process is to:
+
+1. **Define the standard:** Establish what should happen and what evidence would demonstrate it.
+2. **Examine actual practice:** Compare what happens in operation with the defined requirement.
+3. **Record the evidence:** Document conformity, deviations, exceptions, and unresolved questions.
+4. **Assess the gap:** Determine what requires correction, escalation, or further investigation.
+5. **Support governance:** Provide an evidence-based basis for accountability, corrective action, and follow-up verification.
+
+The objective is to establish whether practice meets the standard. An audit finding may reveal a deviation, but verification alone does not necessarily explain its underlying cause.
+
+**The audit logic:** Defined standard → Examination of practice → Evidence → Finding → Corrective action or governance decision.
+
+### Choosing the Right Approach
+
+- **A specific execution problem needs explanation?** Use the Diagnostic Approach to examine symptoms, test possible causes, and identify what limits application.
+- **Practice needs to be checked against a defined standard?** Use the Audit Approach to verify and document the evidence.
+- **The evidence is insufficient for a decision?** Establish what is known, what remains uncertain, and what additional evidence could change the decision.
+
+The approaches can inform one another. An audit may identify a problem that requires diagnosis; a diagnosis may identify a control that needs verification. Neither route is a mandatory sequence for every situation.
+
+Diagnosis investigates possible causes. Audit verifies practice against a standard. Evidence gathering establishes what can reasonably be concluded. These are related but distinct tasks.
+
+The Core README provides the detailed diagnostic conditions, response logic, question map, audit logic, and decision tools. Supporting HEE mechanisms are selected according to the operational question; they are not a mandatory sequence.
+
+## What HEE Is—and Is Not
 
 HEE is a developing management approach for practical examination, critical review, and empirical testing. It proposes a way to connect capacity, application, execution, value, and future capacity at the level of operational decisions.
 
-It does **not** claim to be a universally established cause of execution failure, a validated causal model, a replacement for existing management methods, or a proven intervention. Human Energy’s distinctiveness and measurement properties—and whether HEE adds explanatory, predictive, or decision value beyond credible alternatives—remain open research questions.
+It does **not** claim to be:
 
-### Evidence status
+- A universally established explanation of execution failure.
+- A validated causal model or proven intervention.
+- A replacement for existing management methods.
+- Evidence that every execution problem originates in Human Energy or organizational capacity.
 
-HEE emerged from the author's practical experience across Russia, West Africa, and Bangladesh. These experiences provide context for its development; they do not constitute independent validation. Publication, a well-structured framework, and illustrative cases do not establish effectiveness.
+Human Energy’s distinctiveness and measurement properties—and whether HEE adds explanatory, predictive, or decision value beyond credible alternatives—remain open research questions.
 
-The Core README describes proposed tests for classification reliability, construct validity, predictive value, decision benefit, and comparison with credible alternatives. These are research plans, not completed validation results. HEE’s claims should be retained, narrowed, or withdrawn in light of evidence, including null or adverse findings.
+## Evidence Status
+
+HEE emerged from the author's practical experience across Russia, West Africa, and Bangladesh. These experiences provide context for its development; they do not constitute independent validation.
+
+Publication, a well-structured framework, and illustrative cases do not establish effectiveness.
+
+The Core README describes proposed tests for classification reliability, construct validity, predictive value, decision benefit, and comparison with credible alternatives. These are research plans, not completed validation results.
+
+HEE’s claims should be retained, narrowed, or withdrawn in light of evidence, including null or adverse findings.
 
 ## Explore HEE
 
 - **[Read the HEE Core Framework](https://github.com/titumozammel/human-energy-economics)** — full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests.
-- **[Explore HEE case studies](https://github.com/titumozammel/hee-case-studies)** — case-study materials and practical illustrations.
-- [Author's GitHub profile](https://github.com/titumozammel)
+- **[Explore HEE Case Studies](https://github.com/titumozammel/hee-case-studies)** — case-study materials and practical illustrations.
+- [Author's GitHub Profile](https://github.com/titumozammel)
 - [Website](https://ovinabo.com/)
 - [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
+---
+
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
-
----
 
 *Profile Edition · Version 1.0 · 26 October 2026*
 
