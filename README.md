@@ -104,15 +104,39 @@ The objective is to establish whether practice meets the standard. An audit find
 
 **The audit logic:** Defined standard → Examination of practice → Evidence → Finding → Corrective action or governance decision.
 
-### Choosing the Right Approach
+## Investigate: Three Distinct Branches
 
-- **A specific execution problem needs explanation?** Use the Diagnostic Approach to examine symptoms, test possible causes, and identify what limits application.
-- **Practice needs to be checked against a defined standard?** Use the Audit Approach to verify and document the evidence.
-- **The evidence is insufficient for a decision?** Establish what is known, what remains uncertain, and what additional evidence could change the decision.
+**Investigate** is the broader instruction to resolve what remains uncertain. Depending on the question, it branches into three distinct tasks:
 
-The approaches can inform one another. An audit may identify a problem that requires diagnosis; a diagnosis may identify a control that needs verification. Neither route is a mandatory sequence for every situation.
+- **Diagnose — Find the cause:** Why is this happening? Test possible explanations for the observed execution problem.
+- **Establish — Gather decision-relevant evidence:** What do we need to know to make a defensible decision? Move from **Unknown** toward **Decidable** without assuming that the cause has been established.
+- **Verify — Check against a standard:** Does actual practice meet the defined requirement? This is the verification function of the Audit Approach.
 
-Diagnosis investigates possible causes. Audit verifies practice against a standard. Evidence gathering establishes what can reasonably be concluded. These are related but distinct tasks.
+The branches answer different questions:
+
+```text
+Investigate
+├── Diagnose
+│   └── Find the cause: Why is this happening?
+├── Establish
+│   └── Gather decision-relevant evidence:
+│       Move Unknown → Decidable
+└── Verify
+    └── Check whether practice meets the
+        defined standard (Audit Approach)
+```
+
+Diagnosing tests causes; establishing gathers evidence needed for a decision; verifying checks practice against a standard. Evidence gathered through one branch may inform another, but the tasks are not interchangeable.
+
+Moving from **Unknown** to **Decidable** means enough relevant evidence is available to make a defensible decision. It does not mean all uncertainty has disappeared or that a causal explanation has been proven.
+
+### Choosing the Right Route
+
+- **Diagnose — Explain an execution problem:** Use the Diagnostic Approach to examine symptoms, test possible causes, and identify what limits application.
+- **Verify — Check practice against a standard:** Use the Audit Approach to verify and document whether actual practice meets a defined requirement.
+- **Establish — Resolve an evidence gap:** Identify what is known, what remains uncertain, and what additional evidence could make a defensible decision possible.
+
+An audit may identify a problem that requires diagnosis; a diagnosis may identify a control that needs verification. Establishing decision-relevant evidence may support either route. These tasks can inform one another, but they are not interchangeable or a mandatory sequence.
 
 The Core README provides the detailed diagnostic conditions, response logic, question map, audit logic, and decision tools. Supporting HEE mechanisms are selected according to the operational question; they are not a mandatory sequence.
 
