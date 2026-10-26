@@ -1,12 +1,12 @@
 # Human Energy Economics (HEE)
 
-**Why does execution break down—even when an organization has capable people, sound strategies, and modern technology?**
+**Your results tell you what you achieved. Do they tell you what capacity you have left to achieve them again?**
 
-Rework accumulates. Decisions stall. Coordination consumes time. Targets are met—but sometimes by exhausting the capacity needed for the next cycle.
+Organizations can achieve their targets without fully understanding what those results have consumed, what capacity remains, or whether the conditions for future execution are being strengthened or degraded.
 
-**Human Energy Economics (HEE)** is a developing, practice-driven management approach for examining what limits the application of organizational capacity, what execution consumes, and whether an organization can sustain results across successive cycles.
+Human Energy Economics (HEE) is a developing, practice-driven management approach that helps organizations examine the capacity behind their results, identify what limits application, and consider what must change to sustain execution across successive cycles.
 
-HEE helps decision-makers examine execution problems without assuming that every problem requires more resources, more training, or more pressure.
+**The central concern:** Not only what the organization achieves, but whether it can continue achieving valuable results without unnecessarily degrading the capacity required to do it again.
 
 ---
 
@@ -30,7 +30,7 @@ The next question is:
 
 **Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?**
 
-The first question diagnoses a potential capacity cost. The second directs a decision about what to change and examines its likely consequences for future capacity.
+The first question examines a potential capacity cost. The second directs a decision about what to change and considers its likely consequences for future capacity.
 
 **Short form for daily use:** *What must change next—and will it protect or consume next cycle’s capacity?*
 
@@ -57,9 +57,9 @@ The management objective is to improve valuable application and sustained execut
 
 ---
 
-## What Limits Execution?
+## What Determines the Capacity Behind Results?
 
-An execution problem does not automatically mean people lack ability. Capability may exist but be disconnected from the point of need, blocked by organizational conditions, misdirected by poor decisions, or consumed by excessive demand.
+An organization may have capable people, sound strategies, adequate resources, and modern technology. The management question is how effectively these assets can be applied—and what conditions affect their continued availability and use.
 
 HEE uses six execution factors to structure inquiry:
 
@@ -84,7 +84,7 @@ This is a conceptual orientation aid, not an established causal sequence.
 
 Capability is potential. Application is the use of capability at the point of need. Execution is the carrying out of work to produce required outcomes. These are distinct: capability does not automatically become application, and application does not guarantee reliable execution or value creation.
 
-The question is whether the organization can repeatedly turn capability into valuable execution without unnecessarily degrading the capacity required for future cycles.
+HEE asks whether the organization can repeatedly turn capability into valuable execution without unnecessarily degrading the capacity required for future cycles.
 
 ---
 
@@ -96,7 +96,7 @@ HEE distinguishes two practical approaches according to the question that needs 
 
 **Start with a problem. Investigate what is causing it.**
 
-Use the Diagnostic Approach when execution breaks down, results fall short, rework accumulates, or capability fails to become effective application.
+Use the Diagnostic Approach when an execution gap, unwanted outcome, recurring rework, or failure to apply capability effectively needs explanation.
 
 The process is to:
 
@@ -106,7 +106,7 @@ The process is to:
 4. **Identify what limits application:** Distinguish the observed problem from possible underlying causes.
 5. **Select a response:** Recover, Develop, Connect, Enable, or investigate further, according to the evidence.
 
-The objective is to understand the problem well enough to choose a proportionate response—not to assume that every execution failure requires more resources, more training, or more pressure.
+The objective is to understand the problem well enough to choose a proportionate response—not to assume that every execution problem requires more resources, more training, or more pressure.
 
 **Diagnostic logic:** Symptoms → Investigation → Tested explanation → Appropriate response.
 
