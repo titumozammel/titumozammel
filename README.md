@@ -22,7 +22,7 @@ Human Energy Economics (HEE) is a developing, practice-driven management approac
 
 - **[Author GitHub Profile](https://github.com/titumozammel)** — the originator's GitHub profile and repositories.
 - **[Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics)** — full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests.
-- **[HEE Case Studies](https://github.com/titumozammel/hee-case-studies)** — case-study materials and practical illustrations.
+- **[HEE Case Studies](https://github.com/titumozammel/hee-case-studies)** — the AKG Record and other case materials: an author-reported practice record that generates hypotheses; it is not proof.
 - **[Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework)** — recurring demand, noise, or complexity that consumes capacity.
 - **[3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach)** — Source, Dependency, Constraint: framing where a condition comes from, what depends on it, and what limits action.
 - **[5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework)** — Remove, Reduce, Replace, Re-engineer, Retain: testing whether recurring work is necessary and how it could change.
