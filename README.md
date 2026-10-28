@@ -38,16 +38,18 @@ Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/
 
 HEE is organized by the questions different readers ask. Start with yours.
 
-| If you are… | Your question | Start in the Core README |
-| --- | --- | --- |
-| New to HEE, or learning | What is this, in plain language? | [New to HEE? Start here](https://github.com/titumozammel/human-energy-economics#new-to-hee-start-here), with a short practice exercise |
-| An owner or executive | What decision should I make, and what evidence justifies it? | [Start here: 60 seconds](https://github.com/titumozammel/human-energy-economics#start-here-60-seconds), the [justified-spending card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp), and the [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h) |
-| A practitioner | How do I move from an observed problem to a defensible diagnosis and a useful intervention? | The [Practitioner Field Guide](https://github.com/titumozammel/human-energy-economics#practitioner-field-guide): Field Triage, then the six moves |
-| An academic | What is HEE’s theoretical contribution, and how is it distinguished from existing explanations? | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#what-hee-contributes), “What HEE is intended to add”, then the evidence map |
-| A researcher | What study would genuinely support, narrow, or falsify HEE? | The [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p) and the six core tests |
-| A functional lead (finance, HR, operations, IT, risk, and others) | What does HEE mean for my function, and what should I ask or do? | [Find by role](https://github.com/titumozammel/human-energy-economics#find-by-role-h) and the [role answer cards](https://github.com/titumozammel/human-energy-economics#role-answer-cards-h) |
-| An individual employee | Why am I exhausted and unable to keep up? | [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h): the question is about work conditions, not a diagnosis of you |
-| An auditor or independent reviewer | How do I make a diagnosis auditable, or verify practice against a standard? | The [Diagnosis and audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) and the [independent review checklist](https://github.com/titumozammel/human-energy-economics#independent-review-checklist-h) |
+| Question | Primary function | Asked by | Answered in | Decision it unlocks |
+| --- | --- | --- | --- | --- |
+| What is this, in plain language? | Understand scope | New to HEE, or learning | [New to HEE? Start here](https://github.com/titumozammel/human-energy-economics#new-to-hee-start-here), with a short practice exercise | Whether HEE fits the reader’s need |
+| What decision should I make, and what evidence justifies it? | Choose a supported action | An owner or executive | [Start here: 60 seconds](https://github.com/titumozammel/human-energy-economics#start-here-60-seconds), the [justified-spending card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp), and the [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h) | What to decide or investigate next |
+| How do I move from an observed problem to a defensible diagnosis and a useful intervention? | Diagnose and intervene | A practitioner | The [Practitioner Field Guide](https://github.com/titumozammel/human-energy-economics#practitioner-field-guide): Field Triage, then the six moves | Which explanation and intervention to test |
+| What is HEE’s theoretical contribution, and how is it distinguished from existing explanations? | Assess theoretical contribution | An academic | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#what-hee-contributes), “What HEE is intended to add”, then the evidence map | Which contribution claims remain defensible |
+| What study would genuinely support, narrow, or falsify HEE? | Design a fair test | A researcher | The [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p) and the six core tests | Which study can support, narrow, or challenge a claim |
+| Which conditions block my team’s existing capability from being applied? | Investigate blocked application | A manager, practitioner or owner | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement): the six pillars, Diagnose, Establish and Verify routes | Which enablement barrier to test, or whether the cause lies elsewhere |
+| What do the practice cases show, and what do they not show? | Judge practice evidence | An academic, researcher or practitioner | The [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether an example informs a hypothesis or needs independent testing |
+| What does HEE mean for my function, and what should I ask or do? | Route a functional decision | A functional lead (finance, HR, operations, IT, risk, and others) | [Find by role](https://github.com/titumozammel/human-energy-economics#find-by-role-h) and the [role answer cards](https://github.com/titumozammel/human-energy-economics#role-answer-cards-h) | Which role-specific question and evidence to use |
+| Why am I exhausted and unable to keep up? | Investigate work conditions | An individual employee | [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h): the question is about work conditions, not a diagnosis of you | Which work-condition inquiry or escalation is appropriate |
+| How do I make a diagnosis auditable, or verify practice against a standard? | Verify and review | An auditor or independent reviewer | The [Diagnosis and audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) and the [independent review checklist](https://github.com/titumozammel/human-energy-economics#independent-review-checklist-h) | Which criterion, review depth, and evidence trail to use |
 
 The Core README’s question map lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
 
@@ -108,7 +110,7 @@ Spending capacity is not a failure in itself. HEE proposes two separate checks a
 | Coverage state | What it means | Default move |
 | --- | --- | --- |
 | **Covered** | Expected capacity covers legitimate demand in every plausible scenario | Proceed; schedule a renewal check |
-| **Fragile** | The base case is covered, but a plausible scenario creates a material gap | Proceed only with a credible contingency: a named person, a scheduled slot, the resource or authority, and a trigger date |
+| **Fragile** | The base case is covered, but a plausible scenario creates a material gap | Proceed only with a credible contingency: a named person, a scheduled slot, the resource or authority, and a trigger date. If any is missing or infeasible, retain Fragile as the evidence state and act as if Not covered |
 | **Not covered** | The base case has a material gap, or a required capability or access is unavailable | Name a renewal owner, slot, resources, and deadline, or reduce next-cycle commitments |
 | **Unknown** | Evidence is too weak for a defensible comparison | Name the evidence that would decide, who gets it, and a decide-by date. If that date passes without decisive evidence, retain Unknown as the evidence state and act as if Not covered for this decision, reduce commitments, or escalate to the owner who can create a feasible contingency |
 
@@ -153,17 +155,41 @@ These factors help structure investigation; they do not, by themselves, establis
 
 ## Better, Faster Decisions
 
-HEE separates three things readers often blur:
+### The Decision Point
 
-- **Decision Process Quality:** how the decision was reached.
-- **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
-- **Decision Outcome Quality:** what actually happened.
+*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
 
-```text
-Process  (how was it reached?)  →  Choice  (right, given what was knowable?)  →  Outcome  (what actually happened?)
-```
+Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
-A poor outcome does not prove a poor process or choice, and a good outcome does not prove a sound one. Judge them separately.
+1. **Decision Enablement:** whether the necessary decision rights, information, authority, and access exist.
+2. **Decision Process Quality:** how the decision was reached.
+3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
+4. **Decision Outcome Quality:** what actually happened.
+
+**Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
+
+Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
+
+**The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
+
+- **Justified?** Was the expenditure of capacity warranted?
+- **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
+
+A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
+
+**Investigation routes.** Choose the route that fits the question:
+
+- **Diagnose** (the Diagnostic Approach): investigate symptoms, test possible causes, and select a useful intervention.
+- **Establish:** gather the evidence needed to make an uncertain question decidable.
+- **Verify** (the Audit Approach): compare practice with a stated standard using traceable evidence.
+
+These routes can inform one another; they are not compulsory sequential stages.
+
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
+
+Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
+
+**Review lenses:** Enablement · Process · Choice · Outcome. Assess each separately as context changes.
 
 For speed, the Core README grades a decision by stakes and reversibility. **Tier 1** (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check. Higher tiers add an independent check and a decide-by date. A stop rule and review date are written before any pilot. Whether these aids make decisions faster without making them worse is a testable claim, not an established result.
 
@@ -265,6 +291,7 @@ It also states its open limits plainly: the claim that context shapes the questi
 *Status: Public-facing introduction to a developing, practice-driven management approach, in line with Version 1.0 of the Core README. The Core README is authoritative for full definitions, classifications, research propositions, methods, and limitations. If the profile and Core README differ, the Core README governs.*
 
 ---
+
 
 ## LICENSE
 
