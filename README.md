@@ -27,7 +27,7 @@ Human Energy Economics (HEE) is a developing, practice-driven management approac
 - **[3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach)** — Source, Dependency, Constraint: framing where a condition comes from, what depends on it, and what limits action.
 - **[5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework)** — Remove, Reduce, Replace, Re-engineer, Retain: testing whether recurring work is necessary and how it could change.
 - **[Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement)** — capability exists but application is blocked.
-- **[Execution Excellence System](https://github.com/titumozammel/execution-excellence-system)** — connecting diagnosis to execution support.
+- **[Execution Excellence System](https://github.com/titumozammel/execution-excellence-system)** — what prevents reliable execution, and how to fix it and make it hold.
 
 Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
@@ -157,7 +157,7 @@ These factors help structure investigation; they do not, by themselves, establis
 
 ### The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
