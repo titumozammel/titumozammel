@@ -299,4 +299,4 @@ This framework is released under the:
 
 > **MIT License**
 
-The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository.
+The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository. Attribution is requested as a scholarly practice; it is not an additional license restriction. A license permits reuse, not a claim of scientific validation or author endorsement.
