@@ -147,6 +147,8 @@ HEE uses six execution factors to structure inquiry:
 - **Decision Process Quality** — whether decisions direct scarce capacity soundly in context: timely, evidence-informed, owned, and proportionate to the decision window and consequences.
 - **Enablement** — whether organizational conditions permit capability to be applied.
 
+In short: capability is what people can do, capacity is how much of it can be applied, and enablement is the work conditions that let it be applied.
+
 These factors help structure investigation; they do not, by themselves, establish a cause. The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
 
 **Capability → Application → Execution → Value → Sustainable Growth.** This is a conceptual orientation aid, not an established causal sequence. Capability is potential, application is its use at the point of need, and execution is the carrying out of work to produce required outcomes. Each can fail without the next failing, and none guarantees the next.
