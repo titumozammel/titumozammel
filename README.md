@@ -31,7 +31,6 @@ Human Energy Economics (HEE) is a developing, practice-driven management approac
 
 Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
-
 ---
 
 ## Find Your Question
@@ -323,12 +322,11 @@ It also states its open limits plainly: the claim that context shapes the questi
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-*Profile Edition · Version 1.0 · 28 October 2026*
+*Profile Edition · Version 1.0 · 31 October 2026*
 
 *Status: Public-facing introduction to a developing, practice-driven management approach, in line with Version 1.0 of the Core README. The Core README is authoritative for full definitions, classifications, research propositions, methods, and limitations. If the profile and Core README differ, the Core README governs.*
 
 ---
-
 
 ## LICENSE
 
