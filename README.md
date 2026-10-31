@@ -43,7 +43,7 @@ HEE is organized by the questions different readers ask. Start with yours.
 | What is this, in plain language? | Understand scope | New to HEE, or learning | [New to HEE? Start here](https://github.com/titumozammel/human-energy-economics#new-to-hee-start-here), with a short practice exercise | Whether HEE fits the reader’s need |
 | What decision should I make, and what evidence justifies it? | Choose a supported action | An owner or executive | [Start here: 60 seconds](https://github.com/titumozammel/human-energy-economics#start-here-60-seconds), the [justified-spending card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp), and the [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h) | What to decide or investigate next |
 | How do I move from an observed problem to a defensible diagnosis and a useful intervention? | Diagnose and intervene | A practitioner | The [Practitioner Field Guide](https://github.com/titumozammel/human-energy-economics#practitioner-field-guide): Field Triage, then the six moves | Which explanation and intervention to test |
-| What is HEE’s theoretical contribution, and how is it distinguished from existing explanations? | Assess theoretical contribution | An academic | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#what-hee-contributes), “What HEE is intended to add”, then the evidence map | Which contribution claims remain defensible |
+| What is HEE’s theoretical contribution, and how is it distinguished from existing explanations? | Assess theoretical contribution | An academic | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#2-what-does-hee-contribute), “What HEE is intended to add”, then the evidence map | Which contribution claims remain defensible |
 | What study would genuinely support, narrow, or falsify HEE? | Design a fair test | A researcher | The [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p) and the six core tests | Which study can support, narrow, or challenge a claim |
 | Which conditions block my team’s existing capability from being applied? | Investigate blocked application | A manager, practitioner or owner | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement): the six pillars, Diagnose, Establish and Verify routes | Which enablement barrier to test, or whether the cause lies elsewhere |
 | What do the practice cases show, and what do they not show? | Judge practice evidence | An academic, researcher or practitioner | The [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether an example informs a hypothesis or needs independent testing |
@@ -57,15 +57,17 @@ The Core README’s question map lists each question with its primary function, 
 
 ## HEE at a Glance
 
-**Identity.** Human Energy Economics (HEE) is a developing, practice-driven management approach and a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. Its practical origins inform the questions it asks; they do not constitute independent validation.
+### 1. What is HEE?
 
-**Precision statement.** HEE is a developing, practice-driven management approach for examining whether current results are being achieved at the expense of capacity needed for future work. It proposes two checks, *Justified?* and *Covered?*, to assess whether an expenditure is justified and, separately, whether future demand is covered; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
+Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a developing, practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
-**Core idea.** Organizations do not sustain performance merely by possessing resources, people, or capability. They sustain it by preserving, developing, connecting, enabling, mobilizing, and applying those assets repeatedly—without unnecessarily degrading the capacity required to do it again.
+**Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It proposes two separate checks, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
-**Signature principle:** *Extraction depletes. Cultivation compounds.* This is a guiding principle, not an empirical finding.
+**Core idea.** Organizations do not sustain performance merely by possessing resources, people, or capability. They sustain it by preserving, developing, connecting, enabling, mobilizing, and applying those assets repeatedly, without unnecessarily degrading the capacity required to do it again. *Extraction depletes. Cultivation compounds.* This is a guiding principle, not an empirical finding.
 
-### What HEE Contributes
+<a id="what-hee-contributes"></a>
+
+### 2. What does HEE contribute?
 
 HEE proposes one connected way to move from an observed performance question to a reviewable decision: question → method → evidence → decision → follow-up. Readers choose a route: **diagnose** why a problem is occurring, **establish** the evidence still missing, or **verify** practice against a stated criterion.
 
@@ -75,28 +77,55 @@ HEE is intended to help owners make clearer, better-supported decisions and unde
 
 **Status.** This is a proposed practical contribution, not a finding or a claim of theoretical novelty. Whether it improves decisions compared with a credible established approach is a question for tests the Core README sets out.
 
-### HEE’s Central Management Question
+### 3. How do I apply it to my problem?
+
+**Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. No management approach, including HEE, guarantees the desired result across all contexts. HEE therefore does not prescribe one uniform flow for every case.
+
+Choose and combine its proposed investigation routes according to the question: **Diagnose** to investigate possible causes, **Establish** to gather evidence needed for a defensible determination, and **Verify** to check practice against a stated standard. These routes are not compulsory sequential stages. Reconsider the route as evidence or conditions change.
+
+The aim is a better-supported decision about how to pursue the goal, not a guaranteed outcome. Whether HEE improves decisions remains open to testing, and the claim that context shapes the route is a design assertion pending P12.
+
+#### HEE’s central management question
 
 **Is today’s result being paid for with tomorrow’s capacity?**
 
-HEE uses this question to direct attention beyond current results to the conditions required to sustain future performance. The next question is:
+*An orientation map; revisit any step as needed.*
 
-**Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?**
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 15, "rankSpacing": 22, "padding": 6}}}%%
+flowchart LR
+    A["<b>1 ASK</b><br/>Is today's result<br/>being paid for with<br/>tomorrow's<br/>capacity?"]
+    B["<b>2 CHOOSE<br/>A ROUTE</b><br/>Diagnose: why?<br/>Establish: what<br/>evidence is missing?<br/>Verify: does practice<br/>meet the standard?"]
+    C["<b>3 GATHER<br/>EVIDENCE</b><br/>What evidence<br/>would answer<br/>this question?"]
+    D["<b>4 DECIDE</b><br/>What should we<br/>change, retain,<br/>investigate further,<br/>or pause?<br/><i>Justified? Covered?</i>"]
+    E["<b>5 REVIEW</b><br/>Justified? Covered?<br/>Actual expenditure<br/>and next-cycle<br/>coverage"]
+    A --> B --> C --> D --> E
+    E -. "next cycle" .-> A
+```
 
-The first question examines a potential capacity cost. The second directs a decision about what to change and considers its likely consequences for future capacity.
-
-**Short form for daily use:** *What must change next—and will it protect or consume next cycle’s capacity?* This is a shortened version of the second canonical question, not a third question.
-
-The objective is neither to produce today’s result at any cost nor to protect capacity at the expense of all current performance. It is to understand the relationship between current results and future capacity, improve the conditions that enable execution, and strengthen the organization’s ability to perform across successive cycles.
+Apply the two checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask the second canonical question: **Which condition must change next—and will that change protect, renew, or consume the next cycle’s capacity?**
 
 **Signature question:** *What prevents the capability we have from becoming execution—and what must change next?* Its companion “limits form,” used when the evidence points to a boundary or constraint, is: *What limits the capability we have from becoming execution—and what must change next?* Keep the signature question verbatim when identifying the framework.
+
+### 4. How far can I trust it?
+
+HEE is a provisional research and practice reference, not a validated diagnostic instrument. Established research informs it, but does not validate its particular constructs, integration, or decision-support claims. Its practical origins inform the questions it asks; they do not constitute independent validation. Its proposed claims remain open to tests that could support, narrow, or reject them. Use proportionate evidence, record uncertainty, and distinguish illustrative examples and author-reported observations from independent findings.
+
+#### What HEE does not claim
+
+- It is not validated, and it has not been shown to beat existing approaches.
+- Human Energy is not a physiological measure, and the pathway Capability → Application → Execution → Value → Sustainable Growth is an orientation, not an established causal chain.
+- No route or response guarantees the desired result; HEE supports judgment of context and does not replace it.
+- The author’s experience gives context, not validation, and the author’s commercial service, The Capacity Read (Ovinabo Advisory), is not evidence for HEE.
+
+The full statement is in [What HEE does and does not claim](https://github.com/titumozammel/human-energy-economics#what-hee-does-and-does-not-claim).
 
 ### Value and Sustainable Growth
 
 HEE examines how organizations create, lose, recover, protect, apply, and sustain the capacity required for repeated execution and continuing value creation. It treats Organizational Capacity as an economic concern and asks questions about scarcity, opportunity cost, renewal, and future value. However, HEE does not yet present a formal economic model, and it does not claim that Human Energy alone determines performance.
 
 - **Value:** Consequential outcomes for relevant stakeholders and the systems the organization depends on, across the six capitals: financial, manufactured, intellectual, human, social and relationship, and natural. Value is not identical to activity, output, or financial profit.
-- **Sustainable Growth:** The continuing creation and renewal of value across the six capitals without degrading the capacity required for future value creation. Profit alone cannot establish sustainable growth if other capitals or future capacity are being depleted.
+- **Sustainable Growth:** The continuing creation and renewal of value across the six capitals without degrading the capacity required for future value creation. Profit alone cannot establish sustainable growth if other capitals or future capacity are being depleted. The full definitions and the six-capitals table are in Core [§4.1](https://github.com/titumozammel/human-energy-economics#41-value-and-sustainable-growth-the-six-capitals).
 
 ---
 
@@ -107,6 +136,8 @@ Spending capacity is not a failure in itself. HEE proposes two separate checks a
 - **Justified?** Was the capacity spent for a stated purpose, in proportion to it? Answer yes, partly, or no. If partly, separate the justified part from the excess.
 - **Covered?** Does credible expected usable capacity meet the next cycle’s legitimate demand across plausible scenarios, with the required capability and access? If the forecast depends on renewal, is that renewal feasible, timely, resourced, and owned?
 
+**In practice:** Covered supports proceeding subject to justification and necessary safeguards. Fragile requires a credible contingency; without one, retain Fragile in the record and act precautionarily as if Not covered. For Not covered, reduce or reschedule commitments, or secure feasible, timely capacity and reassess coverage. For Unknown, name the evidence needed, its owner, and a decide-by date. The table below gives the full default move for each state; this paragraph is the owner-facing summary.
+
 | Coverage state | What it means | Default move |
 | --- | --- | --- |
 | **Covered** | Expected capacity covers legitimate demand in every plausible scenario | Proceed; schedule a renewal check |
@@ -115,6 +146,8 @@ Spending capacity is not a failure in itself. HEE proposes two separate checks a
 | **Unknown** | Evidence is too weak for a defensible comparison | Name the evidence that would decide, who gets it, and a decide-by date. If that date passes without decisive evidence, retain Unknown as the evidence state and act as if Not covered for this decision, reduce commitments, or escalate to the owner who can create a feasible contingency |
 
 **A worked contrast [Illustrative].** The numbers are invented to show the logic, not evidence of a real case. A support team works heavy overtime for two weeks to resolve a product recall. The work was *justified*, but next month's normal demand will not be *covered* because no one has recovered: justified spending with a candidate future shortfall, so the owner names a renewal plan or reduces next-month commitments. Another team spends the same overtime re-keying data between two systems. That work is *not justified*, yet next month is *covered* because the team has slack: a drain candidate, not an emergency, so the owner schedules the system fix. Same overtime, different decisions, and results alone would not have told them apart.
+
+**A cash-flavoured contrast [Illustrative].** The numbers are invented. A distribution team defers 40,000 (currency units) of vehicle maintenance for two quarters to meet a cost target. Next quarter the legitimate delivery demand is 100 vehicle-days, but credible usable capacity is 85 because breakdowns have risen. The immediate cash outflow was reduced, but net savings are not established. Was the deferral justified? Unknown without evidence about maintenance requirements, risks, alternatives, and expected costs. Is next quarter covered? Not covered under the stated forecast: 85 vehicle-days against demand of 100. The owner must secure feasible capacity or adjust commitments while preserving required safeguards, then reassess coverage. A target achieved, expenditure justified, and future demand covered are separate judgments. HEE does not claim that this improves financial prediction.
 
 **Read the two checks together.** Justified and Covered is justified expenditure. Justified and Not covered is justified spending with a candidate future shortfall. Not or partly justified and Covered is a drain candidate, not an emergency. Not or partly justified and Not covered is high priority.
 
@@ -258,6 +291,8 @@ Evidence gathered through one branch may inform another, but the branches are no
 - **Verify — Check practice against a standard:** use the Audit Approach to verify and document whether actual practice meets a defined requirement.
 - **Establish — Resolve an evidence gap:** identify what is known, what remains uncertain, and what additional evidence could make a defensible decision possible.
 
+**Context shapes the route.** HEE does not prescribe one uniform flow; see [question 3](#3-how-do-i-apply-it-to-my-problem).
+
 **Six practitioner moves, in one line:** Understand context → Transform question → Make distinctions → Investigate → Examine change → Examine result. Here “Investigate” means gathering and testing evidence (move 4), not the three-branch instruction above. The Core README gives each move, its safeguards, and the stop rules.
 
 ---
@@ -279,7 +314,7 @@ Human Energy’s distinctiveness and measurement properties—and whether HEE ad
 
 HEE emerged from the author’s practical experience across Russia, West Africa, and Bangladesh. These experiences provide context for its development; they do not constitute independent validation. Publication, a well-structured framework, and illustrative cases do not establish effectiveness.
 
-The Core README proposes six core tests: diagnostic reliability (P11); whether HEE changes intervention choices compared with a structured performance-analysis approach (P10 Stage 0); whether matched interventions improve outcomes (P10); whether explicit protection alters the reabsorption of released capacity (P5 and P13); whether the justification check adds value beyond a coverage-only forecast (P14); and whether the decision aids speed decisions without lowering rated quality (P15). Multi-cycle effects on capital and capacity outcomes (P9) are also proposed but are not one of the six core tests. These are research plans, not completed results.
+The Core README proposes six core tests: diagnostic reliability (P11); whether HEE changes intervention choices compared with a structured performance-analysis approach (P10 Stage 0); whether matched interventions improve outcomes (P10); whether explicit protection alters the reabsorption of released capacity (P5 and P13); whether the justification check adds value beyond a coverage-only forecast (P14); and whether the decision aids speed decisions without lowering rated quality (P15). Multi-cycle effects on capital and capacity outcomes (P9) are also proposed but are not one of the six core tests. These are research plans, not completed results. The Core README states what would retire or narrow each claim; see the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p). The research sequence and minimum designs for the six core tests are in [Core Part V](https://github.com/titumozammel/human-energy-economics#part-v--evidence-and-testing-research-facing).
 
 It also states its open limits plainly: the claim that context shapes the question is a design assertion pending a focused literature synthesis (P12); the Human Energy construct has not yet been tested against established measures; Tier 1 judgments are self-assessed by the accountable owner; and the originator wrote the rules by which the claims are retired, so independent review is required before formal studies. HEE’s claims should be retained, narrowed, or withdrawn in light of evidence, including null or adverse findings.
 
