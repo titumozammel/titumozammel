@@ -2,7 +2,7 @@
 
 **Md. Mozammel Hoque** · Independent Management Researcher · Originator of Human Energy Economics (HEE)
 
-**Your results tell you what you achieved. Do they tell you what capacity you have left to achieve them again?**
+**Your results show what you achieved. Do they show what capacity you have left to achieve it again?**
 
 Organizations can achieve their targets without fully understanding what those results have consumed, what capacity remains, or whether the conditions for future execution are being strengthened or degraded.
 
