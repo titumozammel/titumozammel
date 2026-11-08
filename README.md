@@ -46,7 +46,7 @@ The five frameworks (HEEn, OSF, EES, 3C, and 5R) each open with a one-page **Use
 | Question | Primary function | Asked by | Answered in | Decision it unlocks |
 | --- | --- | --- | --- | --- |
 | What is HEE, and when might I use it? | Understand scope | New readers | [New to HEE? Start here](https://github.com/titumozammel/human-energy-economics#new-to-hee-start-here): plain-language explanation and a short exercise | Whether to explore HEE further |
-| What should we decide now, and what evidence is enough? | Make a supported choice | Owners and executives | [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h): decision tiers and proportionate evidence requirements; [owner brief](https://github.com/titumozammel/human-energy-economics#the-owner-brief-one-page-decision-guide-h) | Decide now, run a small test, investigate, or escalate |
+| What should we decide now, and what evidence is enough? | Make a supported choice | Owners and executives | [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h): decision tiers and proportionate evidence requirements; [owner brief](https://github.com/titumozammel/human-energy-economics#the-owner-brief-decision-guide-h) | Decide now, run a small test, investigate, or escalate |
 | Why is execution falling short? | Investigate causes | Managers and practitioners | [Practitioner Field Guide](https://github.com/titumozammel/human-energy-economics#practitioner-field-guide): Field Triage, competing explanations, and evidence gathering | Which explanation to test first |
 | Was the capacity expenditure justified, and is next cycle covered? | Assess expenditure and future demand | Owners, operations, finance, and HR | [Two Checks](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp): two separate judgments and four coverage states | Proceed, protect or renew capacity, adjust commitments, or record Unknown with the evidence needed |
 | Which conditions block my team’s existing capability from being applied? | Investigate blocked application | Managers, practitioners, and owners | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement): six pillars, with Diagnose, Establish, and Verify routes | Which enablement barrier to test, or whether the cause lies elsewhere |
@@ -58,7 +58,7 @@ The five frameworks (HEEn, OSF, EES, 3C, and 5R) each open with a one-page **Use
 | What evidence would support, narrow, or reject a claim? | Design research | Researchers and independent reviewers | [Falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p): proposed tests and revision conditions | Which study can support, narrow, or challenge a claim |
 | What do the practice cases actually establish? | Assess practice evidence | Practitioners, academics, and researchers | [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether a case informs application or only a hypothesis |
 
-The Core README’s question map lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
+The Core README’s question map is authoritative: it lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
 
 ---
 
@@ -355,6 +355,8 @@ The Core README proposes six core tests:
 - **P15:** do the decision aids speed decisions without lowering rated quality?
 
 Multi-cycle effects on capital and capacity outcomes (P9) are also proposed but are not one of the six core tests. These are research plans, not completed results. The Core README states what would retire or narrow each claim; see the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p). The research sequence and minimum designs for the six core tests are in [Core Part V](https://github.com/titumozammel/human-energy-economics#part-v--evidence-and-testing-research-facing).
+
+The AKG Record is an author-reported practice record, not a validated dataset. It is not available as a research dataset in this edition; researchers who want access should contact the author, and access is not implied.
 
 If only one study can be funded, the Core README specifies a [combined Stage 0 study](https://github.com/titumozammel/human-energy-economics#if-only-one-study-can-be-funded-combined-stage-0-study-p): one blinded vignette study covering P11, the reliability of the justified, partly justified, and not justified classification, and P10 Stage 0. Its failure would narrow HEE early, and its success would only earn the right to run the more expensive tests.
 
