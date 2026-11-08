@@ -66,14 +66,16 @@ The Core README’s question map lists each question with its primary function, 
 
 **Prefer to browse? Here are all the repositories. If you are unsure where to begin, use Find Your Situation or Find Your Question above.**
 
-- **[Author GitHub Profile](https://github.com/titumozammel)** — the originator's GitHub profile and repositories.
-- **[Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics)** — full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests.
-- **[HEE Case Studies](https://github.com/titumozammel/hee-case-studies)** — the AKG Record and other case materials: an author-reported practice record that generates hypotheses; it is not proof.
-- **[Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework)** — recurring demand, noise, or complexity that consumes capacity.
-- **[3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach)** — Source, Dependency, Constraint: framing where a condition comes from, what depends on it, and what limits action.
-- **[5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework)** — Remove, Reduce, Replace, Re-engineer, Retain: testing whether recurring work is necessary and how it could change.
-- **[Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement)** — capability exists but application is blocked.
-- **[Execution Excellence System](https://github.com/titumozammel/execution-excellence-system)** — what prevents reliable execution, and how to fix it and make it hold.
+| Repository | What it holds | Start here if you want to… |
+|---|---|---|
+| [Author GitHub Profile](https://github.com/titumozammel) | The originator's profile and repositories | See the author's other work |
+| [Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics) | Full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests | Understand HEE in depth, or check what it does and does not claim |
+| [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | The AKG Record: six author-reported operating cases from Abul Khair Group. A practice record that generates hypotheses; it is not proof | See HEE applied, and what the cases do and do not establish |
+| [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Recurring demand, noise, or complexity that consumes capacity | Work out why recurring demand keeps consuming capacity |
+| [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Source, Dependency, Constraint | Frame where a condition comes from, what depends on it, and what limits action |
+| [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Remove, Reduce, Replace, Re-engineer, Retain | Test whether recurring work is necessary and how it could change |
+| [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Cases where capability exists but application is blocked | Find what blocks people from applying what they can already do |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how to fix it and make it hold | Make a fix hold, so execution stays reliable |
 
 Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/mozammel-hee)
 
@@ -83,7 +85,7 @@ Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/
 
 ### 1. What is HEE?
 
-Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
+Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. The word *Economics* in the name refers to those questions: HEE does not present a formal economic model or claim predictive economic validity. It is a practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
 **Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It proposes two separate checks, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
@@ -119,6 +121,8 @@ HEE comes from the author’s life journey (see the author’s note at the end).
 4. **Choose a response the evidence supports.** Depending on what you find, that may be to protect or recover capacity, to develop, connect, or enable it, or to remove, reduce, replace, re-engineer, or retain recurring demand.
 5. **Check what held.** Look again next cycle.
 
+*These five steps provide a brief overview; the Core README explains the [six practitioner moves](https://github.com/titumozammel/human-energy-economics#the-six-practitioner-moves-h) in full.*
+
 ### Works alongside what you already use
 
 HEE is a practice-driven approach that works alongside existing management ideas and does not replace any of them. Each row shows what you may already use and a question to examine alongside it.
@@ -136,11 +140,11 @@ HEE is a practice-driven approach that works alongside existing management ideas
 
 ### Three terms used in HEE
 
-| Term | Plain meaning |
-|---|---|
-| **Drain** | Capacity consumed without sufficient productive contribution or legitimate future value. Consumption is not automatically drain. |
-| **Human Energy Leakage** | The mechanism: unnecessary consumption, diversion, fragmentation, or trapping of Human Energy. |
-| **Human Energy Liberation** | Deliberately removing or redesigning the unnecessary conditions that create or sustain leakage. |
+| Term | Plain meaning | How to tell it apart (illustrative) |
+|---|---|---|
+| **Drain** | Capacity consumed without sufficient productive contribution or legitimate future value. Consumption is not automatically drain. | *Capacity consumption without sufficient contribution.* Hours spent re-keying the same data into two systems that no one reconciles. |
+| **Human Energy Leakage** | The mechanism: unnecessary consumption, diversion, fragmentation, or trapping of Human Energy. | *How it is lost.* The duplicate entry is the route by which those hours drain away. |
+| **Human Energy Liberation** | A way of investigating and redesigning the recurring unnecessary conditions that create or sustain leakage; an orientation, not a separate intervention. | *The direction of the response.* Ask why the duplicate step exists and redesign the condition that keeps it, rather than asking people to work harder around it. |
 
 *These are proposed terms. Definitions and evidence status are in the [Core README](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h).*
 
@@ -217,9 +221,13 @@ Spending capacity is not a failure in itself. HEE proposes two separate checks a
 
 **A cash-flavoured contrast [Illustrative].** The numbers are invented. A distribution team defers 40,000 (currency units) of vehicle maintenance for two quarters to meet a cost target. Next quarter the legitimate delivery demand is 100 vehicle-days, but credible usable capacity is 85 because breakdowns have risen. The immediate cash outflow was reduced, but net savings are not established. Was the deferral justified? Unknown without evidence about maintenance requirements, risks, alternatives, and expected costs. Is next quarter covered? Not covered under the stated forecast: 85 vehicle-days against demand of 100. The owner must secure feasible capacity or adjust commitments while preserving required safeguards, then reassess coverage. A target achieved, expenditure justified, and future demand covered are separate judgments. HEE does not claim that this improves financial prediction.
 
+**A partly justified example [Illustrative].** The numbers are invented. A production team works 60 hours of overtime in a month. A review assesses the hours for necessity, proportionality, and alternatives. It first sorts them by source: about 35 hours answered a genuine order surge, and 25 were rework caused by a recurring planning error. Sorting by source does not decide justification, because neither type is automatic. A genuine surge does not justify every hour, and rework does not make every hour unjustified, since correcting faulty work before it reaches customers may be necessary. The review then tests each block against the three criteria. It finds that 30 of the surge hours were proportionate to the demand, and 5 were more than the surge required because rescheduling was available. It finds that 10 of the rework hours were necessary to correct faulty work before shipment, and 15 repeated a fault that an earlier check could have caught. So 40 hours were warranted and proportionate, and 20 were not. *Justified?* Partly: 40 of 60. If the review had not yet reached these findings, justification would stay Unknown rather than Partly. *Covered?* Next month's legitimate demand is 120 team-hours a week, but credible usable capacity is 110 because people are tired and two are absent. That is Not covered. A partly justified expense with Not covered is high priority. The owner protects the justified response to demand and the correction of faulty work where it is needed. The drain candidates are the 20 excess hours and the avoidable planning condition that generated the rework. Fixing that condition may release capacity without asking for more overtime. Whether it does is for the team to test.
+
+*In short: sort by source, then test each block against necessity, proportionality, and alternatives. Until that review is done, justification is Unknown, not Partly.*
+
 **Read the two checks together.** Justified and Covered is justified expenditure. Justified and Not covered is justified spending with a candidate future shortfall. Not or partly justified and Covered is a drain candidate, not an emergency. Not or partly justified and Not covered is high priority.
 
-A recovery plan makes renewal credible; it does not by itself make coverage sufficient. The accountable owner makes the judgment, and for consequential decisions a second person who does not own the result checks it. These are proposed checks and decision states, not validated measures or scores.
+A recovery plan makes renewal credible only when it is feasible, timely, resourced, and owned; its existence alone is insufficient, and it does not by itself make coverage sufficient. The accountable owner makes the judgment, and for consequential decisions a second person who does not own the result checks it. Tier 1 decisions (low stakes, easily reversed) do not require a second-person check; evidence and proportionate safeguards still apply. A Tier 1 call is self-assessed by the accountable owner, and these checks have not yet been tested in studies. These are proposed checks and decision states, not validated measures or scores.
 
 ---
 
@@ -241,6 +249,8 @@ Use it when an execution gap, unwanted outcome, recurring rework, or failure to 
 
 **Diagnostic logic:** Symptoms → Investigation → Provisional explanation → Appropriate response.
 
+*These five steps summarise the Core README’s [Field Triage](https://github.com/titumozammel/human-energy-economics#field-triage-one-page-h), [first pass](https://github.com/titumozammel/human-energy-economics#71-the-first-pass), and [six practitioner moves](https://github.com/titumozammel/human-energy-economics#the-six-practitioner-moves-h).*
+
 An **Execution Deficit** is a signal that execution is not producing the required result; it is not, by itself, an explanation of why. For a quick start, **Field Triage** needs only four words: missing, blocked, draining, mixed. If the answer is mixed, record each plausible or co-occurring condition and the evidence for it; they are not necessarily rivals. Choose the first test by weighing urgency, safety, likely impact, decision authority, reversibility, and cost.
 
 ### 2. Establish — Resolving an Evidence Gap
@@ -248,6 +258,8 @@ An **Execution Deficit** is a signal that execution is not producing the require
 **Start with a decision that cannot yet be made. Gather what would let you make it.**
 
 Sometimes a decision cannot be made because the evidence is missing, whether or not a diagnosis or an audit is under way. **Establish** gathers the decision-relevant evidence: it moves a question from Unknown toward decidable without assuming a cause has been found, or records a documented Unknown if the evidence remains insufficient. *Decidable* means enough relevant evidence for a defensible decision, not that uncertainty has disappeared.
+
+**Establish in practice [Illustrative].** Take the vehicle-maintenance deferral above. Coverage is already judged Not covered: 85 vehicle-days against demand of 100. That finding stands on its own, and the owner acts on it now, by securing feasible capacity or adjusting commitments. What remains Unknown is whether the deferral was justified, and Establish addresses only that question. It names the decision (whether to extend the deferral next quarter) and the evidence that would decide it: the maintenance requirements, breakdown records since the deferral, repair-cost estimates, and the alternatives. It names who obtains each item and a decide-by date. If the evidence shows the deferral is raising cost or risk, the owner reassesses the justification. If the date passes without decisive evidence, justification stays on record as Unknown, with the extension decision escalated or made on a precautionary basis. The Not covered finding is unaffected either way. At no point does Establish claim to have found the cause.
 
 ### 3. The Audit Approach — Verification and Governance
 
@@ -264,6 +276,8 @@ Use it when a policy, procedure, control, requirement, or agreed standard must b
 Record each conclusion as **supported, partly supported, unsupported, or unknown**, and keep the evidence trail so that an independent reviewer can re-perform it. An audit finding may reveal a deviation, but verification alone does not necessarily explain its cause. An HEE review does not replace a formal compliance, financial, legal, or safety audit.
 
 **Audit logic:** Defined standard → Examination of practice → Evidence → Finding → Corrective action or governance decision.
+
+*The Core README’s [diagnosis and audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) gives the full method, and its [independent review checklist](https://github.com/titumozammel/human-energy-economics#independent-review-checklist-h) shows how a reviewer re-performs it.*
 
 ---
 
@@ -292,41 +306,13 @@ These factors help structure investigation; they do not, by themselves, establis
 
 ### The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
+Consequential decisions should be explicit and reviewable. The Core README’s Decision Point asks four separate questions: was the decision **enabled** (decision rights, information, authority, access), how good was the **process**, was the **choice** appropriate given what could reasonably be known, and what was the **outcome**? They are assessed separately because a good outcome does not prove a sound process, and a poor outcome does not prove an unsound choice.
 
-Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
+**Where it connects.** Apply the Two Checks proportionately to decisions that affect capacity, and choose the investigation route (Diagnose, Establish, or Verify) that fits the question. Customer Experience outcomes are important evidence of customer-facing value, but good CX alone does not establish that future delivery can be sustained.
 
-1. **Decision Enablement:** whether the necessary decision rights, information, authority, and access exist.
-2. **Decision Process Quality:** how the decision was reached.
-3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
-4. **Decision Outcome Quality:** what actually happened.
+**Speed.** The Core README grades a decision by stakes and reversibility. Tier 1 (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check. Higher tiers add an independent check and a decide-by date. Whether these aids make decisions faster without making them worse is a testable claim, not an established result.
 
-**Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
-
-Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
-
-**The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
-
-- **Justified?** Was the expenditure of capacity warranted?
-- **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
-
-A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
-
-**Investigation routes.** Choose the route that fits the question:
-
-- **Diagnose** (the Diagnostic Approach): investigate symptoms, test possible causes, and select a useful intervention.
-- **Establish:** gather the evidence needed to make an uncertain question decidable.
-- **Verify** (the Audit Approach): compare practice with a stated standard using traceable evidence.
-
-These routes can inform one another; they are not compulsory sequential stages.
-
-**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not establish progression or sustainable results.
-
-Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
-
-**Review lenses:** Enablement · Process · Choice · Outcome. Assess each separately as context changes.
-
-For speed, the Core README grades a decision by stakes and reversibility. **Tier 1** (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check. Higher tiers add an independent check and a decide-by date. A stop rule and review date are written before any pilot. Whether these aids make decisions faster without making them worse is a testable claim, not an established result.
+*Full text: [The Decision Point](https://github.com/titumozammel/human-energy-economics#the-decision-point-hp) · [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h). If this summary and the Core README differ, the Core README governs.*
 
 ---
 
@@ -359,7 +345,18 @@ Human Energy’s distinctiveness and measurement properties—and whether HEE ad
 
 HEE emerged from the author’s practical experience across Russia, Nigeria, and Bangladesh. These experiences provide context for its development; they do not constitute independent validation. Publication, a well-structured framework, and illustrative cases do not establish effectiveness.
 
-The Core README proposes six core tests: diagnostic reliability (P11); whether HEE changes intervention choices compared with a structured performance-analysis approach (P10 Stage 0); whether matched interventions improve outcomes (P10); whether explicit protection alters the reabsorption of released capacity (P5 and P13); whether the justification check adds value beyond a coverage-only forecast (P14); and whether the decision aids speed decisions without lowering rated quality (P15). Multi-cycle effects on capital and capacity outcomes (P9) are also proposed but are not one of the six core tests. These are research plans, not completed results. The Core README states what would retire or narrow each claim; see the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p). The research sequence and minimum designs for the six core tests are in [Core Part V](https://github.com/titumozammel/human-energy-economics#part-v--evidence-and-testing-research-facing).
+The Core README proposes six core tests:
+
+- **P11:** can independent assessors classify the conditions consistently (diagnostic reliability)?
+- **P10 Stage 0:** does HEE change intervention choices compared with a structured performance-analysis approach?
+- **P10:** do HEE-matched interventions improve outcomes?
+- **P5 and P13:** does explicit protection change whether released capacity is reabsorbed?
+- **P14:** does the justification check add value beyond a coverage-only forecast?
+- **P15:** do the decision aids speed decisions without lowering rated quality?
+
+Multi-cycle effects on capital and capacity outcomes (P9) are also proposed but are not one of the six core tests. These are research plans, not completed results. The Core README states what would retire or narrow each claim; see the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p). The research sequence and minimum designs for the six core tests are in [Core Part V](https://github.com/titumozammel/human-energy-economics#part-v--evidence-and-testing-research-facing).
+
+If only one study can be funded, the Core README specifies a [combined Stage 0 study](https://github.com/titumozammel/human-energy-economics#if-only-one-study-can-be-funded-combined-stage-0-study-p): one blinded vignette study covering P11, the reliability of the justified, partly justified, and not justified classification, and P10 Stage 0. Its failure would narrow HEE early, and its success would only earn the right to run the more expensive tests.
 
 It also states its open limits plainly: the claim that context shapes the question is a design assertion pending a focused literature synthesis (P12); the Human Energy construct has not yet been tested against established measures; Tier 1 judgments are self-assessed by the accountable owner; and the originator wrote the rules by which the claims are retired, so independent review is required before formal studies. HEE’s claims should be retained, narrowed, or withdrawn in light of evidence, including null or adverse findings.
 
