@@ -6,19 +6,65 @@
 
 Organizations can achieve their targets without fully understanding what those results have consumed, what capacity remains, or whether the conditions for future execution are being strengthened or degraded.
 
-Human Energy Economics (HEE) is a developing, practice-driven management approach that helps organizations examine the capacity behind their results, identify what limits application, and consider what must change to sustain execution across successive cycles.
+Human Energy Economics (HEE) is a practice-driven management approach that helps organizations examine the capacity behind their results, identify what limits application, and consider what must change to sustain execution across successive cycles.
 
 **The central concern:** Not only what the organization achieves, but whether it can continue achieving valuable results without unnecessarily degrading the capacity required to do it again.
 
-*Tags in the Core README show evidence status: [E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example.*
+*The Core README uses tags to show evidence status ([E] researched, [A] adapted, [P] proposed and untested, [H] practice heuristic, [Illustrative] invented example). This profile uses only [Illustrative]; otherwise it relies on the Core README’s classifications.*
 
-**Jump to:** [Explore HEE](#explore-hee) · [Find Your Question](#find-your-question) · [Two Checks](#two-checks-shortfall-or-justified-spending) · [Better, Faster Decisions](#better-faster-decisions) · [Investigate](#investigate-three-distinct-branches) · [Evidence Status](#evidence-status-and-open-limits) · [LICENSE](#license)
+**Jump to:** [Find Your Situation](#find-your-situation) · [Find Your Question](#find-your-question) · [Explore HEE](#explore-hee) · [Two Checks](#two-checks-shortfall-or-justified-spending) · [Three Investigation Routes](#three-investigation-routes-diagnose-establish-verify) · [Better, Faster Decisions](#better-faster-decisions) · [Evidence Status](#evidence-status-and-open-limits) · [LICENSE](#license)
+
+---
+
+## Find Your Situation
+
+**You do not need to read all of HEE. Find the sentence that sounds like your week, ask the question beside it, and open the one tool it points to.**
+
+| Your situation | Ask this first | What you will explore | Start here |
+| --- | --- | --- | --- |
+| "We hit the target, but the team is exhausted." | Was the capacity expenditure justified, and is next cycle covered? | Why a justified expenditure and a future-capacity shortfall are separate judgments | [Two Checks](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp) |
+| "Capable people are waiting for access, approval, or decisions." | Is capability missing, is its application blocked, or are both happening together? | How to tell development needs from enablement barriers, and what to do when both occur | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement#use-it-today) |
+| "The same reports, approvals, chasing, or rework keep returning." | What purpose does this work serve, and what keeps generating it? | Whether recurring demand should be kept, redesigned, or questioned | [Operational Silence Framework (OSF)](https://github.com/titumozammel/operational-silence-framework#use-it-today) |
+| "We fix the problem, and it returns." | Did the response change the condition that produces the problem? | How to investigate recurrence and check whether a change holds | [Execution Excellence System (EES)](https://github.com/titumozammel/execution-excellence-system#use-it-today) |
+| "Several things seem wrong. We do not know where to begin." | What creates the problem, what depends on it, and what limits action? | How to frame an inquiry before choosing an intervention | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach#use-it-today) |
+| "We want to simplify something, but it may serve an important purpose." | What would changing it protect, improve, or put at risk? | How to weigh keeping, reducing, replacing, redesigning, or removing it | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework#use-it-today) (Remove · Reduce · Replace · Re-engineer · Retain) |
+
+*These are starting points for inquiry, not diagnoses. Your situation may fit more than one row.*
+
+**Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h).
+
+The five frameworks (HEEn, OSF, EES, 3C, and 5R) each open with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
+
+**What you will find is a better question about your own situation. The decision stays yours.**
+
+---
+
+## Find Your Question
+
+**Find Your Situation** tells you where to begin when you recognise your week. **Find Your Question** is the other way in: use it when you already know what you need to understand or decide. Either way, each answer points to the section of the Core README or companion repository that addresses it.
+
+| Question | Primary function | Asked by | Answered in | Decision it unlocks |
+| --- | --- | --- | --- | --- |
+| What is HEE, and when might I use it? | Understand scope | New readers | [New to HEE? Start here](https://github.com/titumozammel/human-energy-economics#new-to-hee-start-here): plain-language explanation and a short exercise | Whether to explore HEE further |
+| What should we decide now, and what evidence is enough? | Make a supported choice | Owners and executives | [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h): decision tiers and proportionate evidence requirements; [owner brief](https://github.com/titumozammel/human-energy-economics#the-owner-brief-one-page-decision-guide-h) | Decide now, run a small test, investigate, or escalate |
+| Why is execution falling short? | Investigate causes | Managers and practitioners | [Practitioner Field Guide](https://github.com/titumozammel/human-energy-economics#practitioner-field-guide): Field Triage, competing explanations, and evidence gathering | Which explanation to test first |
+| Was the capacity expenditure justified, and is next cycle covered? | Assess expenditure and future demand | Owners, operations, finance, and HR | [Two Checks](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp): two separate judgments and four coverage states | Proceed, protect or renew capacity, adjust commitments, or record Unknown with the evidence needed |
+| Which conditions block my team’s existing capability from being applied? | Investigate blocked application | Managers, practitioners, and owners | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement): six pillars, with Diagnose, Establish, and Verify routes | Which enablement barrier to test, or whether the cause lies elsewhere |
+| What should someone in my function ask or do? | Apply a role perspective | Functional leads: finance, HR, operations, IT, risk, and others | [Find by role](https://github.com/titumozammel/human-energy-economics#find-by-role-h): locate your function, then use its [role answer card](https://github.com/titumozammel/human-energy-economics#role-answer-cards-h) for function-specific questions and evidence needs | Which role-specific question and evidence to use |
+| Feeling worn down at work, what should I examine first? | Examine work demands and conditions | Individual employees | [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h): the question is about work conditions, not a diagnosis of you | Which work-condition inquiry or conversation with a manager is appropriate |
+| How do employee and customer experience inform sustainable growth? | Examine connected evidence | Leaders, HR, operations, and customer teams | [EX, CX, and Sustainable Growth](https://github.com/titumozammel/human-energy-economics#employee-experience-customer-experience-and-sustainable-growth-p): relationships and evidence limits | What additional evidence to examine |
+| Does practice meet the stated requirement? | Verify practice | Auditors, risk teams, and independent reviewers | [Diagnosis and audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h): criteria, traceable evidence, and findings; then, to check whether a diagnosis has a defensible evidence trail, the [independent review checklist](https://github.com/titumozammel/human-energy-economics#independent-review-checklist-h) | Accept, correct, escalate, or investigate |
+| What does HEE contribute, and what remains untested? | Assess contribution | Academics | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#2-what-does-hee-contribute): the proposed additions; then the [evidence map](https://github.com/titumozammel/human-energy-economics#14-evidence-map-research-facing) for their boundaries | Which contribution claims warrant comparison or testing |
+| What evidence would support, narrow, or reject a claim? | Design research | Researchers and independent reviewers | [Falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p): proposed tests and revision conditions | Which study can support, narrow, or challenge a claim |
+| What do the practice cases actually establish? | Assess practice evidence | Practitioners, academics, and researchers | [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether a case informs application or only a hypothesis |
+
+The Core README’s question map lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
 
 ---
 
 ## Explore HEE
 
-**Start with the core reference, then follow the framework that fits your question.**
+**Prefer to browse? Here are all the repositories. If you are unsure where to begin, use Find Your Situation or Find Your Question above.**
 
 - **[Author GitHub Profile](https://github.com/titumozammel)** — the originator's GitHub profile and repositories.
 - **[Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics)** — full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests.
@@ -33,32 +79,11 @@ Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/
 
 ---
 
-## Find Your Question
-
-HEE is organized by the questions different readers ask. Start with yours.
-
-| Question | Primary function | Asked by | Answered in | Decision it unlocks |
-| --- | --- | --- | --- | --- |
-| What is this, in plain language? | Understand scope | New to HEE, or learning | [New to HEE? Start here](https://github.com/titumozammel/human-energy-economics#new-to-hee-start-here), with a short practice exercise | Whether HEE fits the reader’s need |
-| What decision should I make, and what evidence justifies it? | Choose a supported action | An owner or executive | [Start here: 60 seconds](https://github.com/titumozammel/human-energy-economics#start-here-60-seconds), the [justified-spending card](https://github.com/titumozammel/human-energy-economics#justified-spending-or-future-shortfall-one-page-card-hp), and the [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h) | What to decide or investigate next |
-| How do I move from an observed problem to a defensible diagnosis and a useful intervention? | Diagnose and intervene | A practitioner | The [Practitioner Field Guide](https://github.com/titumozammel/human-energy-economics#practitioner-field-guide): Field Triage, then the six moves | Which explanation and intervention to test |
-| What is HEE’s theoretical contribution, and how is it distinguished from existing explanations? | Assess theoretical contribution | An academic | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#2-what-does-hee-contribute), “What HEE is intended to add”, then the evidence map | Which contribution claims remain defensible |
-| What study would genuinely support, narrow, or falsify HEE? | Design a fair test | A researcher | The [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p) and the six core tests | Which study can support, narrow, or challenge a claim |
-| Which conditions block my team’s existing capability from being applied? | Investigate blocked application | A manager, practitioner or owner | [Human Energy Enablement (HEEn)](https://github.com/titumozammel/human-energy-enablement): the six pillars, Diagnose, Establish and Verify routes | Which enablement barrier to test, or whether the cause lies elsewhere |
-| What do the practice cases show, and what do they not show? | Judge practice evidence | An academic, researcher or practitioner | The [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether an example informs a hypothesis or needs independent testing |
-| What does HEE mean for my function, and what should I ask or do? | Route a functional decision | A functional lead (finance, HR, operations, IT, risk, and others) | [Find by role](https://github.com/titumozammel/human-energy-economics#find-by-role-h) and the [role answer cards](https://github.com/titumozammel/human-energy-economics#role-answer-cards-h) | Which role-specific question and evidence to use |
-| Why am I exhausted and unable to keep up? | Investigate work conditions | An individual employee | [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h): the question is about work conditions, not a diagnosis of you | Which work-condition inquiry or escalation is appropriate |
-| How do I make a diagnosis auditable, or verify practice against a standard? | Verify and review | An auditor or independent reviewer | The [Diagnosis and audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h) and the [independent review checklist](https://github.com/titumozammel/human-energy-economics#independent-review-checklist-h) | Which criterion, review depth, and evidence trail to use |
-
-The Core README’s question map lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
-
----
-
 ## HEE at a Glance
 
 ### 1. What is HEE?
 
-Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a developing, practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
+Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
 **Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It proposes two separate checks, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
@@ -76,13 +101,57 @@ HEE is intended to help owners make clearer, better-supported decisions and unde
 
 **Status.** This is a proposed practical contribution, not a finding or a claim of theoretical novelty. Whether it improves decisions compared with a credible established approach is a question for tests the Core README sets out.
 
+### Why HEE matters
+
+Results show what an organization achieved. They do not show whether the capacity behind them is being renewed or used up. HEE’s emphasis is on one added question, alongside the questions you already ask about work, waste, and delay:
+
+> **Is today’s result being paid for with tomorrow’s capacity?**
+
+This question organizes HEE’s practical contribution: the Two Checks, the investigation routes, and the companion frameworks are ways to answer it with evidence. It is a proposal for you to examine, not an established advantage, and whether it improves outcomes in your setting is for you, and for independent testing, to judge.
+
+HEE comes from the author’s life journey (see the author’s note at the end). One observation from that practice, author-reported and not independently verified: customer experience comes first, and sustained customer experience appeared to depend on the work conditions supporting employees. HEE gives that observation a form that others can examine and test, and treats it as a question to investigate in your setting, not a rule to assume.
+
+### How HEE helps you work through an execution problem
+
+1. **Start with the problem, not the solution.** Name one gap between what should happen and what does.
+2. **Ask the Two Checks.** *Justified?* Was the capacity expenditure warranted and proportionate to its purpose? *Covered?* Does credible expected usable capacity meet next cycle’s legitimate demand?
+3. **Examine what is limiting.** It may be drain (consumption without sufficient contribution or legitimate future value; consumption is not automatically drain), missing capability, blocked application, or several together. Look at the evidence for each before settling on one (see the [Vocabulary sheet](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h)).
+4. **Choose a response the evidence supports.** Depending on what you find, that may be to protect or recover capacity, to develop, connect, or enable it, or to remove, reduce, replace, re-engineer, or retain recurring demand.
+5. **Check what held.** Look again next cycle.
+
+### Works alongside what you already use
+
+HEE is a practice-driven approach that works alongside existing management ideas and does not replace any of them. Each row shows what you may already use and a question to examine alongside it.
+
+| If you already use… | It helps you ask… | A question to examine alongside it… |
+|---|---|---|
+| **Goals and targets** (OKRs, Balanced Scorecard) | Are we aiming at the right results? | Will next cycle's usable capacity cover them? |
+| **Process improvement** (Lean, Six Sigma) | Where is the waste or variation? | Is the improvement itself drawing on capacity that must be renewed? |
+| **Constraints thinking** (Theory of Constraints) | What limits output? | Is capability missing, or is existing capability unable to be applied? |
+| **Engagement and wellbeing** | How do people experience their work? | How does that relate to the capacity left for next cycle? |
+| **Change management** | Will people adopt the change? | Can the organization sustain it after the launch effort? |
+| **Cost and performance measurement** | What does the output cost, and is it on target? | How much of the energy used served a justified purpose, and how much was drain? |
+
+*Status: a proposed framing for examination and testing. Whether HEE adds value alongside any of these approaches is for practitioners and independent researchers to assess.*
+
+### Three terms used in HEE
+
+| Term | Plain meaning |
+|---|---|
+| **Drain** | Capacity consumed without sufficient productive contribution or legitimate future value. Consumption is not automatically drain. |
+| **Human Energy Leakage** | The mechanism: unnecessary consumption, diversion, fragmentation, or trapping of Human Energy. |
+| **Human Energy Liberation** | Deliberately removing or redesigning the unnecessary conditions that create or sustain leakage. |
+
+*These are proposed terms. Definitions and evidence status are in the [Core README](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h).*
+
+
 ### 3. How do I apply it to my problem?
 
-**Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. No management approach, including HEE, guarantees the desired result across all contexts. HEE therefore does not prescribe one uniform flow for every case.
+**Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. The result of any management approach, including HEE, depends on the context. HEE therefore does not prescribe one uniform flow for every case.
 
 Choose and combine its proposed investigation routes according to the question: **Diagnose** to investigate possible causes, **Establish** to gather evidence needed for a defensible determination, and **Verify** to check practice against a stated standard. These routes are not compulsory sequential stages. Reconsider the route as evidence or conditions change.
 
-The aim is a better-supported decision about how to pursue the goal, not a guaranteed outcome. Whether HEE improves decisions remains open to testing, and the claim that context shapes the route is a design assertion pending P12.
+The aim is a better-supported decision about how to pursue the goal, and the outcome depends on context. Whether HEE improves decisions remains open to testing, and the claim that context shapes the route is a proposal that has not yet been tested.
 
 #### HEE’s central management question
 
@@ -108,14 +177,14 @@ Apply the two checks twice: before choosing an action (step 4; would the expendi
 
 ### 4. How far can I trust it?
 
-HEE is a provisional research and practice reference, not a validated diagnostic instrument. Established research informs it, but does not validate its particular constructs, integration, or decision-support claims. Its practical origins inform the questions it asks; they do not constitute independent validation. Its proposed claims remain open to tests that could support, narrow, or reject them. Use proportionate evidence, record uncertainty, and distinguish illustrative examples and author-reported observations from independent findings.
+HEE is a practice-driven management approach intended to support inquiry and decision-making. It is not a validated diagnostic instrument. Established research informs it, but does not validate its particular constructs, integration, or decision-support claims. Its practical origins inform the questions it asks; they do not constitute independent validation. Its proposed claims remain open to tests that could support, narrow, or reject them. Use proportionate evidence, record uncertainty, and distinguish illustrative examples and author-reported observations from independent findings.
 
 #### What HEE does not claim
 
 - It is not validated, and it has not been shown to beat existing approaches.
 - Human Energy is not a physiological measure, and the pathway Capability → Application → Execution → Value → Sustainable Growth is an orientation, not an established causal chain.
-- No route or response guarantees the desired result; HEE supports judgment of context and does not replace it.
-- The author’s experience gives context, not validation, and the author’s commercial service, The Capacity Read (Ovinabo Advisory), is not evidence for HEE.
+- Every route or response depends on context and evidence; HEE supports judgment of context and does not replace it.
+- The author’s experience gives context, not validation.
 
 The full statement is in [What HEE does and does not claim](https://github.com/titumozammel/human-energy-economics#what-hee-does-and-does-not-claim).
 
@@ -130,7 +199,7 @@ HEE examines how organizations create, lose, recover, protect, apply, and sustai
 
 ## Two Checks: Shortfall or Justified Spending?
 
-Spending capacity is not a failure in itself. HEE proposes two separate checks and then a coverage state: whether the expenditure was justified, and whether next-cycle demand is covered. A justified expenditure can still leave a shortfall.
+Spending capacity is not a failure in itself. HEE proposes two separate checks and then a coverage state: whether the expenditure was justified, and whether next-cycle demand is covered. A justified expenditure can still leave a shortfall. The Two Checks are decision questions, not a diagnosis; the investigation routes that follow support them according to what needs answering.
 
 - **Justified?** Was the capacity spent for a stated purpose, in proportion to it? Answer yes, partly, or no. If partly, separate the justified part from the excess.
 - **Covered?** Does credible expected usable capacity meet the next cycle’s legitimate demand across plausible scenarios, with the required capability and access? If the forecast depends on renewal, is that renewal feasible, timely, resourced, and owned?
@@ -154,15 +223,47 @@ A recovery plan makes renewal credible; it does not by itself make coverage suff
 
 ---
 
-## Employee Experience, Customer Experience, and Sustainable Growth
+## Three Investigation Routes: Diagnose, Establish, Verify
 
-HEE connects them through one concern: whether available capacity is converted into valuable results without consuming what the next cycle needs.
+HEE offers three investigation routes, chosen according to the question: Diagnose investigates possible causes; Establish gathers evidence needed for a defensible decision; Verify checks practice against a stated requirement. The routes can inform one another and are not mandatory sequential stages. Use the route the question calls for; you do not need all three.
 
-- **Employee experience (EX)** is evidence of how people experience demand, decisions, and the conditions that enable or block their work.
-- **Customer experience (CX)** provides evidence about delivered value and may prompt investigation of how that value was produced, including a look back toward EX; it does not by itself establish whether conversion is working or whether capacity is protected.
-- **Sustainable Growth** is whether that value is renewed across cycles without consuming the capacity required to deliver it.
+### 1. The Diagnostic Approach — Troubleshooting and Problem Solving
 
-EX and CX are evidence about that conversion, to be examined alongside process and capacity data; neither signal alone establishes a cause or proves Sustainable Growth, which is the condition they are examined against. Good CX does not show that capacity is protected, and EX and CX can point in different directions. When they do, HEE says to investigate the conditions behind the gap rather than to trust either signal alone.
+**Start with a problem. Investigate what is causing it.**
+
+Use it when an execution gap, unwanted outcome, recurring rework, or failure to apply capability effectively needs explanation.
+
+1. **Identify the problem:** Define the execution gap or unwanted outcome.
+2. **Examine the symptoms:** Establish what is happening, where, and under what conditions.
+3. **Investigate possible causes:** Test whether the limiting condition is a Human Energy Gap, Drain Condition, Capability Gap, Capability Connection Gap, Enablement Gap, or Artificial Constraint Condition. With the Execution Deficit described below, these are the seven diagnostic conditions: a provisional working vocabulary, not a validated taxonomy.
+4. **Identify what limits application:** Distinguish the observed problem from possible underlying causes.
+5. **Select a response:** If the evidence supports one, consider Protect, Recover, Develop, Connect, or Enable. If it does not, investigate further before selecting an intervention; Investigate is a diagnostic instruction, not a sixth intervention.
+
+**Diagnostic logic:** Symptoms → Investigation → Provisional explanation → Appropriate response.
+
+An **Execution Deficit** is a signal that execution is not producing the required result; it is not, by itself, an explanation of why. For a quick start, **Field Triage** needs only four words: missing, blocked, draining, mixed. If the answer is mixed, record each plausible or co-occurring condition and the evidence for it; they are not necessarily rivals. Choose the first test by weighing urgency, safety, likely impact, decision authority, reversibility, and cost.
+
+### 2. Establish — Resolving an Evidence Gap
+
+**Start with a decision that cannot yet be made. Gather what would let you make it.**
+
+Sometimes a decision cannot be made because the evidence is missing, whether or not a diagnosis or an audit is under way. **Establish** gathers the decision-relevant evidence: it moves a question from Unknown toward decidable without assuming a cause has been found, or records a documented Unknown if the evidence remains insufficient. *Decidable* means enough relevant evidence for a defensible decision, not that uncertainty has disappeared.
+
+### 3. The Audit Approach — Verification and Governance
+
+**Start with a defined standard. Check whether actual practice meets it.**
+
+Use it when a policy, procedure, control, requirement, or agreed standard must be verified.
+
+1. **Define the standard:** Establish what should happen and what evidence would demonstrate it.
+2. **Examine actual practice:** Compare what happens in operation with the defined requirement.
+3. **Record the evidence:** Document conformity, deviations, exceptions, and unresolved questions.
+4. **Assess the gap:** Determine what requires correction, escalation, or further investigation.
+5. **Support governance:** Provide an evidence-based basis for accountability, corrective action, and follow-up verification.
+
+Record each conclusion as **supported, partly supported, unsupported, or unknown**, and keep the evidence trail so that an independent reviewer can re-perform it. An audit finding may reveal a deviation, but verification alone does not necessarily explain its cause. An HEE review does not replace a formal compliance, financial, legal, or safety audit.
+
+**Audit logic:** Defined standard → Examination of practice → Evidence → Finding → Corrective action or governance decision.
 
 ---
 
@@ -183,7 +284,7 @@ In short: capability is what people can do, capacity is how much of it can be ap
 
 These factors help structure investigation; they do not, by themselves, establish a cause. The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
 
-**Capability → Application → Execution → Value → Sustainable Growth.** This is a conceptual orientation aid, not an established causal sequence. Capability is potential, application is its use at the point of need, and execution is the carrying out of work to produce required outcomes. Each can fail without the next failing, and none guarantees the next.
+**Capability → Application → Execution → Value → Sustainable Growth.** This is a conceptual orientation aid, not an established causal sequence. Capability is potential, application is its use at the point of need, and execution is the carrying out of work to produce required outcomes. Each can fail without the next failing, and none establishes the next.
 
 ---
 
@@ -219,7 +320,7 @@ A justified expenditure can still leave future capacity Not covered. Where evide
 
 These routes can inform one another; they are not compulsory sequential stages.
 
-**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
+**The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not establish progression or sustainable results.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
@@ -229,76 +330,21 @@ For speed, the Core README grades a decision by stakes and reversibility. **Tier
 
 ---
 
-## Two Approaches: Diagnose Problems or Verify Practice
+## Employee Experience, Customer Experience, and Sustainable Growth
 
-HEE distinguishes two practical approaches according to the question that needs to be answered. They can complement each other, but they serve different purposes.
+HEE connects them through one concern: whether available capacity is converted into valuable results without consuming what the next cycle needs.
 
-### 1. The Diagnostic Approach — Troubleshooting and Problem Solving
+- **Employee experience (EX)** is evidence of how people experience demand, decisions, and the conditions that enable or block their work.
+- **Customer experience (CX)** provides evidence about delivered value and may prompt investigation of how that value was produced, including a look back toward EX; it does not by itself establish whether conversion is working or whether capacity is protected.
+- **Sustainable Growth** is whether that value is renewed across cycles without consuming the capacity required to deliver it.
 
-**Start with a problem. Investigate what is causing it.**
-
-Use it when an execution gap, unwanted outcome, recurring rework, or failure to apply capability effectively needs explanation.
-
-1. **Identify the problem:** Define the execution gap or unwanted outcome.
-2. **Examine the symptoms:** Establish what is happening, where, and under what conditions.
-3. **Investigate possible causes:** Test whether the limiting condition is a Human Energy Gap, Drain Condition, Capability Gap, Capability Connection Gap, Enablement Gap, or Artificial Constraint Condition. With the Execution Deficit described below, these are the seven diagnostic conditions: a provisional working vocabulary, not a validated taxonomy.
-4. **Identify what limits application:** Distinguish the observed problem from possible underlying causes.
-5. **Select a response:** If the evidence supports one, consider Protect, Recover, Develop, Connect, or Enable. If it does not, investigate further before selecting an intervention; Investigate is a diagnostic instruction, not a sixth intervention.
-
-**Diagnostic logic:** Symptoms → Investigation → Provisional explanation → Appropriate response.
-
-An **Execution Deficit** is a signal that execution is not producing the required result; it is not, by itself, an explanation of why. For a quick start, **Field Triage** needs only four words: missing, blocked, draining, mixed. If the answer is mixed, record each plausible or co-occurring condition and the evidence for it; they are not necessarily rivals. Choose the first test by weighing urgency, safety, likely impact, decision authority, reversibility, and cost.
-
-### 2. The Audit Approach — Verification and Governance
-
-**Start with a defined standard. Check whether actual practice meets it.**
-
-Use it when a policy, procedure, control, requirement, or agreed standard must be verified.
-
-1. **Define the standard:** Establish what should happen and what evidence would demonstrate it.
-2. **Examine actual practice:** Compare what happens in operation with the defined requirement.
-3. **Record the evidence:** Document conformity, deviations, exceptions, and unresolved questions.
-4. **Assess the gap:** Determine what requires correction, escalation, or further investigation.
-5. **Support governance:** Provide an evidence-based basis for accountability, corrective action, and follow-up verification.
-
-Record each conclusion as **supported, partly supported, unsupported, or unknown**, and keep the evidence trail so that an independent reviewer can re-perform it. An audit finding may reveal a deviation, but verification alone does not necessarily explain its cause. An HEE review does not replace a formal compliance, financial, legal, or safety audit.
-
-**Audit logic:** Defined standard → Examination of practice → Evidence → Finding → Corrective action or governance decision.
-
----
-
-## Investigate: Three Distinct Branches
-
-**Investigate** is the broader instruction to resolve what remains uncertain. Depending on the question, it branches into three distinct tasks.
-
-```text
-Investigate
-├── Diagnose        (find the cause: why is this happening?)
-├── Establish       (gather the evidence that would decide: move Unknown → decidable)
-└── Verify          (check whether practice meets the standard — audit route)
-```
-
-- **Diagnose — Find the cause:** Why is this happening? Test possible explanations for the observed execution problem.
-- **Establish — Gather decision-relevant evidence:** What do we need to know to make a defensible decision? Move from **Unknown** toward **decidable** without assuming the cause has been established, or record a documented Unknown if evidence remains insufficient.
-- **Verify — Check against a standard:** Does actual practice meet the defined requirement? This is the verification function of the Audit Approach.
-
-Evidence gathered through one branch may inform another, but the branches are not interchangeable and not a mandatory sequence. An audit can reveal a gap that needs diagnosis; a diagnosis can identify a control that needs verifying. *Decidable* means enough relevant evidence for a defensible decision; it does not mean uncertainty has disappeared or a cause has been proved.
-
-### Choosing the Right Route
-
-- **Diagnose — Explain an execution problem:** use the Diagnostic Approach to examine symptoms, test possible causes, and identify what limits application.
-- **Verify — Check practice against a standard:** use the Audit Approach to verify and document whether actual practice meets a defined requirement.
-- **Establish — Resolve an evidence gap:** identify what is known, what remains uncertain, and what additional evidence could make a defensible decision possible.
-
-**Context shapes the route.** HEE does not prescribe one uniform flow; see [question 3](#3-how-do-i-apply-it-to-my-problem).
-
-**Six practitioner moves, in one line:** Understand context → Transform question → Make distinctions → Investigate → Examine change → Examine result. Here “Investigate” means gathering and testing evidence (move 4), not the three-branch instruction above. The Core README gives each move, its safeguards, and the stop rules.
+EX and CX are evidence about that conversion, to be examined alongside process and capacity data; neither signal alone establishes a cause or proves Sustainable Growth, which is the condition they are examined against. Good CX does not show that capacity is protected, and EX and CX can point in different directions. When they do, HEE says to investigate the conditions behind the gap rather than to trust either signal alone.
 
 ---
 
 ## What HEE Is—and Is Not
 
-HEE is a developing management approach for practical examination, critical review, and empirical testing. It proposes a way to connect capacity, application, execution, value, and future capacity at the level of operational decisions.
+HEE is a management approach for practical examination, critical review, and empirical testing. It proposes a way to connect capacity, application, execution, value, and future capacity at the level of operational decisions.
 
 It does **not** claim to be:
 
@@ -311,7 +357,7 @@ Human Energy’s distinctiveness and measurement properties—and whether HEE ad
 
 ## Evidence Status and Open Limits
 
-HEE emerged from the author’s practical experience across Russia, West Africa, and Bangladesh. These experiences provide context for its development; they do not constitute independent validation. Publication, a well-structured framework, and illustrative cases do not establish effectiveness.
+HEE emerged from the author’s practical experience across Russia, Nigeria, and Bangladesh. These experiences provide context for its development; they do not constitute independent validation. Publication, a well-structured framework, and illustrative cases do not establish effectiveness.
 
 The Core README proposes six core tests: diagnostic reliability (P11); whether HEE changes intervention choices compared with a structured performance-analysis approach (P10 Stage 0); whether matched interventions improve outcomes (P10); whether explicit protection alters the reabsorption of released capacity (P5 and P13); whether the justification check adds value beyond a coverage-only forecast (P14); and whether the decision aids speed decisions without lowering rated quality (P15). Multi-cycle effects on capital and capacity outcomes (P9) are also proposed but are not one of the six core tests. These are research plans, not completed results. The Core README states what would retire or narrow each claim; see the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p). The research sequence and minimum designs for the six core tests are in [Core Part V](https://github.com/titumozammel/human-energy-economics#part-v--evidence-and-testing-research-facing).
 
@@ -324,7 +370,9 @@ It also states its open limits plainly: the claim that context shapes the questi
 
 *Profile Edition · Version 1.0 · 31 October 2026*
 
-*Status: Public-facing introduction to a developing, practice-driven management approach, in line with Version 1.0 of the Core README. The Core README is authoritative for full definitions, classifications, research propositions, methods, and limitations. If the profile and Core README differ, the Core README governs.*
+*Status: Public-facing introduction to a practice-driven management approach, in line with Version 1.0 of the Core README. The Core README is authoritative for full definitions, classifications, research propositions, methods, and limitations. If the profile and Core README differ, the Core README governs.*
+
+**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ---
 
