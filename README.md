@@ -33,7 +33,7 @@ Human Energy Economics (HEE) is a practice-driven management approach that helps
 
 **Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h).
 
-The five frameworks (HEEn, OSF, EES, 3C, and 5R) each open with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
+Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) opens with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
 
 **What you will find is a better question about your own situation. The decision stays yours.**
 
@@ -58,7 +58,7 @@ The five frameworks (HEEn, OSF, EES, 3C, and 5R) each open with a one-page **Use
 | What evidence would support, narrow, or reject a claim? | Design research | Researchers and independent reviewers | [Falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p): proposed tests and revision conditions | Which study can support, narrow, or challenge a claim |
 | What do the practice cases actually establish? | Assess practice evidence | Practitioners, academics, and researchers | [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether a case informs application or only a hypothesis |
 
-The Core README’s question map is authoritative: it lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
+This table is a public-facing subset. The Core README’s question map, with stable question IDs (A1, B1, and so on), is authoritative: it lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
 
 ---
 
@@ -69,7 +69,7 @@ The Core README’s question map is authoritative: it lists each question with i
 | Repository | What it holds | Start here if you want to… |
 |---|---|---|
 | [Author GitHub Profile](https://github.com/titumozammel) | The originator's profile and repositories | See the author's other work |
-| [Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics) | Full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests | Understand HEE in depth, or check what it does and does not claim |
+| [Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics) (authoritative) | Full concepts, diagnostic logic, decision architecture, evidence boundaries, and proposed research tests | Understand HEE in depth, or check what it does and does not claim |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | The AKG Record: six author-reported operating cases from Abul Khair Group. A practice record that generates hypotheses; it is not proof | See HEE applied, and what the cases do and do not establish |
 | [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Recurring demand, noise, or complexity that consumes capacity | Work out why recurring demand keeps consuming capacity |
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Source, Dependency, Constraint | Frame where a condition comes from, what depends on it, and what limits action |
@@ -85,7 +85,11 @@ Also: [Website](https://ovinabo.com/) · [LinkedIn](https://www.linkedin.com/in/
 
 ### 1. What is HEE?
 
-Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. The word *Economics* in the name refers to those questions: HEE does not present a formal economic model or claim predictive economic validity. It is a practice-driven management approach to organizational capacity and sustainable execution. It treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
+Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. The word *Economics* in the name refers to those questions: HEE does not present a formal economic model or claim predictive economic validity. It is a practice-driven management approach to organizational capacity and sustainable execution.
+
+*Practice-driven* means derived from practice (organizational problems, observations, and experience), tested in the author’s practice (author-reported, not independent research), and designed for practitioners (investigation, evidence gathering, decisions, and review). It does not mean validated; the [Core README](https://github.com/titumozammel/human-energy-economics#4-core-definitions) holds the full definition.
+
+HEE treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
 **Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It proposes two separate checks, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is proposed for examination and testing, not demonstrated to be valid, and it is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
@@ -259,7 +263,7 @@ An **Execution Deficit** is a signal that execution is not producing the require
 
 Sometimes a decision cannot be made because the evidence is missing, whether or not a diagnosis or an audit is under way. **Establish** gathers the decision-relevant evidence: it moves a question from Unknown toward decidable without assuming a cause has been found, or records a documented Unknown if the evidence remains insufficient. *Decidable* means enough relevant evidence for a defensible decision, not that uncertainty has disappeared.
 
-**Establish in practice [Illustrative].** Take the vehicle-maintenance deferral above. Coverage is already judged Not covered: 85 vehicle-days against demand of 100. That finding stands on its own, and the owner acts on it now, by securing feasible capacity or adjusting commitments. What remains Unknown is whether the deferral was justified, and Establish addresses only that question. It names the decision (whether to extend the deferral next quarter) and the evidence that would decide it: the maintenance requirements, breakdown records since the deferral, repair-cost estimates, and the alternatives. It names who obtains each item and a decide-by date. If the evidence shows the deferral is raising cost or risk, the owner reassesses the justification. If the date passes without decisive evidence, justification stays on record as Unknown, with the extension decision escalated or made on a precautionary basis. The Not covered finding is unaffected either way. At no point does Establish claim to have found the cause.
+**Establish in practice [Illustrative].** Take the vehicle-maintenance deferral above. Coverage is already judged Not covered: 85 vehicle-days against demand of 100. That finding stands on its own, and the owner acts on it now, by securing feasible capacity or adjusting commitments. What remains Unknown is whether the deferral was justified, and Establish addresses only that question. It names the decision (whether to extend the deferral next quarter) and the evidence that would decide it: the maintenance requirements, breakdown records since the deferral, repair-cost estimates, and the alternatives. It names who obtains each item and a decide-by date. If the evidence shows the deferral is raising cost or risk, the owner reassesses the justification. If the date passes without decisive evidence, justification stays on record as Unknown, with the extension decision escalated or made on a precautionary basis. The Not covered finding is unaffected either way. At no point does Establish claim to have found the cause. Full method: [Investigate: three branches](https://github.com/titumozammel/human-energy-economics#investigate-three-branches-h) and the Unknown stop rule in the Core README’s [coverage states](https://github.com/titumozammel/human-energy-economics#6a-justified-capacity-expenditure-versus-future-capacity-shortfall).
 
 ### 3. The Audit Approach — Verification and Governance
 
@@ -310,7 +314,7 @@ Consequential decisions should be explicit and reviewable. The Core README’s D
 
 **Where it connects.** Apply the Two Checks proportionately to decisions that affect capacity, and choose the investigation route (Diagnose, Establish, or Verify) that fits the question. Customer Experience outcomes are important evidence of customer-facing value, but good CX alone does not establish that future delivery can be sustained.
 
-**Speed.** The Core README grades a decision by stakes and reversibility. Tier 1 (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check. Higher tiers add an independent check and a decide-by date. Whether these aids make decisions faster without making them worse is a testable claim, not an established result.
+**Speed.** The Core README grades a decision by stakes and reversibility. Tier 1 (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check. Higher tiers add an independent check and a decide-by date. The Core README’s [decision-ready test](https://github.com/titumozammel/human-energy-economics#2-the-decision-ready-test-h), five items checked before committing, and its stop rule, written before the pilot, are the practical core of this section. Whether these aids make decisions faster without making them worse is a testable claim, not an established result.
 
 *Full text: [The Decision Point](https://github.com/titumozammel/human-energy-economics#the-decision-point-hp) · [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h). If this summary and the Core README differ, the Core README governs.*
 
