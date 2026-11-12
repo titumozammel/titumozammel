@@ -59,7 +59,7 @@ This Profile is the top-level navigation document for HEE; the Core README is au
 
 **Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h).
 
-Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) opens with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
+Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) includes a one-page **Use it today** card, after its Reader’s guide: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
 
 **What you will find is a better question about your own situation. The decision stays yours.**
 
@@ -115,7 +115,7 @@ Human Energy Economics (HEE) is a capacity lens informed by economic questions a
 
 *Practice-driven* means derived from practice (organizational problems, observations, and experience), applied in the author’s practice (author-reported), and designed for practitioners (investigation, evidence gathering, decisions, and review). The [Core README](https://github.com/titumozammel/human-energy-economics#4-core-definitions) holds the full definition.
 
-HEE treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
+HEE treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
 **Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It asks two separate questions, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
@@ -176,7 +176,7 @@ HEE is a practice-driven approach that works alongside existing management ideas
 | **Human Energy Leakage** | The mechanism: unnecessary consumption, diversion, fragmentation, or trapping of Human Energy. | *How it is lost.* The duplicate entry is the route by which those hours drain away. |
 | **Human Energy Liberation** | A way of investigating and redesigning the recurring unnecessary conditions that create or sustain leakage; an orientation, not a separate intervention. | *The direction of the response.* Ask why the duplicate step exists and redesign the condition that keeps it, rather than asking people to work harder around it. |
 
-*Note: Drain Condition, one of the seven diagnostic conditions in the Diagnostic Approach below, is where these terms are applied to a specific situation.*
+*Note: Drain Condition, one of the seven diagnostic conditions named in step 3 of the Diagnostic Approach below, is where these terms are applied to a specific situation.*
 
 *Definitions are in the [Core README](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h).*
 
@@ -323,18 +323,18 @@ Record each conclusion as **supported, partly supported, unsupported, or unknown
 
 An organization may have capable people, sound strategies, adequate resources, and modern technology. The management question is how effectively these assets can be applied—and what conditions affect their continued availability and use.
 
-HEE uses six execution factors to structure inquiry:
+HEE uses six conditions of execution to structure inquiry:
 
 - **Demand** — the load placed on organizational capacity.
 - **Human Energy** — the cognitive, emotional, and physical capacity people bring to and require for work.
 - **Capability** — the potential to perform, solve, decide, or create.
 - **Connection** — whether distributed capability can work together and reach the point of need.
-- **Decision Process Quality** — whether decisions direct scarce capacity soundly in context: timely, evidence-informed, owned, and proportionate to the decision window and consequences.
+- **Decision Process Quality** — whether decisions direct scarce capacity soundly in context: timely, evidence-informed, owned, with relevant options and uncertainty considered, and proportionate to the decision window and consequences.
 - **Enablement** — whether organizational conditions permit capability to be applied.
 
 In short: capability is what people can do, capacity is how much of it can be applied, and enablement is the work conditions that let it be applied.
 
-These factors help structure investigation; they do not, by themselves, establish a cause. The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
+These conditions help structure investigation; they do not, by themselves, establish a cause. The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
 
 **Capability → Application → Execution → Value → Sustainable Growth.** This is an orientation aid, not an established causal sequence. Capability is potential, application is its use at the point of need, and execution is the carrying out of work to produce required outcomes. Each can fail without the next failing, and none establishes the next.
 
