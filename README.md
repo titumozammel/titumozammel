@@ -166,6 +166,8 @@ HEE is a practice-driven approach that works alongside existing management ideas
 
 *Start with the right-hand column: the left columns name what you already use, and the right column is a question to examine alongside your existing approach.*
 
+**Choosing a method.** Use the method the question requires. Where OKRs, Lean, or another established approach already addresses the task, continue using it. Bring HEE’s questions alongside it when you need to examine capacity consumption, blocked application, or future coverage. HEE does not need to lead every investigation.
+
 ### Three terms used in HEE
 
 | Term | Plain meaning | How to tell it apart (illustrative) |
@@ -286,6 +288,8 @@ Use it when an execution gap, unwanted outcome, recurring rework, or failure to 
 *These five steps summarize the Core README’s [Field Triage](https://github.com/titumozammel/human-energy-economics#field-triage-one-page-h), [first pass](https://github.com/titumozammel/human-energy-economics#71-the-first-pass), and [six practitioner moves](https://github.com/titumozammel/human-energy-economics#the-six-practitioner-moves-h).*
 
 An **Execution Deficit** is a signal that execution is not producing the required result; it is not, by itself, an explanation of why. For a quick start, **Field Triage** needs only four words: missing, blocked, draining, mixed. If the answer is mixed, record each plausible or co-occurring condition and the evidence for it; they are not necessarily rivals. Choose the first test by weighing urgency, safety, likely impact, decision authority, reversibility, and cost.
+
+**A diagnostic example [Illustrative].** The details are invented. A team repeatedly misses delivery dates. The manager initially suspects a skill gap. Reviewing comparable tasks shows that staff complete the work correctly once approval arrives; most delay occurs while requests wait for authorization. This supports investigating blocked application before prescribing training. The manager tests delegated approval for a limited class of requests, with safeguards and a review date, then checks waiting time, errors, and downstream workload. If delays persist, the team revisits the explanation.
 
 ### 2. Establish — Resolving an Evidence Gap
 
