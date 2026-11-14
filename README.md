@@ -10,17 +10,21 @@ Human Energy Economics (HEE) is a practice-driven management approach that helps
 
 **The central concern:** Not only what the organization achieves, but whether it can continue achieving valuable results without unnecessarily degrading the capacity required to do it again.
 
-**The approach:** HEE does not treat management as a formula that fits every situation. It is a practice-derived way to organize inquiry. Each problem is investigated on its own terms, and practitioners use evidence and judgment to select, adapt, and review what fits the context. HEE supports evidence-informed judgment; it does not replace it.
+**The approach:** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
 
 HEE draws on the author’s experience, knowledge, and wisdom, including applications and observed results reported by the author. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note). The [evidence note](#what-hee-isand-is-not) near the end says what is and is not established.
 
-**Jump to:** [Reader’s guide](#readers-guide) · [Find Your Situation](#find-your-situation) · [Find Your Question](#find-your-question) · [Explore HEE](#explore-hee) · [Two Checks](#two-checks-shortfall-or-justified-spending) · [Three Investigation Routes](#three-investigation-routes-diagnose-establish-verify) · [Better, Faster Decisions](#better-faster-decisions) · [Evidence note](#what-hee-isand-is-not) · [LICENSE](#license)
+**Purpose.** HEE is a practice-driven approach. It is meant to help readers make sound decisions about what matters to the people affected. It asks for evidence that fits the stakes, and it keeps the reasoning open to review. The aim is consistent, successful execution with sustainable growth. You are invited to bring your own questions, described by their Time, Object, and Location, and to judge for yourself whether HEE helps.
+
+**Evidence labels in this Profile:** [Illustrative] means an invented example. [H] means a practice heuristic, a rule of thumb from practice. The Core README explains all the labels.
+
+**Jump to:** [Reader’s guide](#readers-guide) · [Start with your context](#start-with-your-context-when-what-and-where) · [Find Your Situation](#find-your-situation) · [Find Your Question](#find-your-question) · [Explore HEE](#explore-hee) · [Two Checks](#two-checks-shortfall-or-justified-spending) · [Three Investigation Routes](#three-investigation-routes-diagnose-establish-verify) · [Better, Faster Decisions](#better-faster-decisions) · [Evidence note](#what-hee-isand-is-not) · [LICENSE](#license)
 
 ---
 
 ## Built through practice
 
-HEE is based on the author’s experience, knowledge, and wisdom. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first. The fuller personal account is in the author’s note at the end.
+HEE is a result of the author’s past and present experience, knowledge, and wisdom. It is practice-driven and practical. Readers are invited to recognize HEE’s questions and reasoning in the author’s practice cases in [HEE Case Studies](https://github.com/titumozammel/hee-case-studies), consider what fits their own context, and apply it with proportionate evidence and judgment. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first. The fuller personal account is in the author’s note at the end.
 
 ## Reader's guide
 
@@ -38,13 +42,29 @@ This Profile is the top-level navigation document for HEE; the Core README is au
 
 *Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
 
+**First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](#start-with-your-context-when-what-and-where)), then use the role row that fits.
+
 **Only five minutes?** Read [Find Your Situation](#find-your-situation), pick the row that sounds like your week, and open the tool beside it.
 
 **You can defer on a first reading:** the Core README’s research and reference sections, unless you are an academic or researcher. Read the evidence note before applying the guidance.
 
+## Start with your context: when, what, and where?
+
+**(Time, Object, and Location) [H]** HEE helps you look at each situation through three things: Time, Object, and Location. Then you decide which conditions to keep, change, or stop. This frame organizes your questions; it does not replace them. You still need to examine objectives, evidence, dependencies, constraints, and consequences.
+
+*Time* is when: the timing, how often, how long, the cycle, and the window for the decision. *Object* identifies the concerns that materially matter to this inquiry: those that could reasonably change the decision, the usable capacity, or a consequential result for those affected. Many concerns may be present (a process, a drain, people, a role, an objective, a vision, a mission, a goal). Write down which ones you set aside, and why. *Location* is where: the physical setting, the culture, the conditions, and related factors.
+
+In the author’s practice, context guides the focus and shapes the questions. Evidence can support the diagnosis (**Diagnose**), reduce decision-relevant uncertainty before a decision (**Establish**), or check practice against a standard (**Verify**). What the evidence shows informs the action. The [Decision Point](#the-decision-point) supports review before commitment and after outcomes emerge. Write one line each for Time, Object, and Location, and compare them with those of any case you read before applying its lessons. HEE applies where the Object affects capacity, demand, application, or execution. This frame is a guide, not a required sequence, and others have not yet tested it. The [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) is used inside this frame: its three contexts (Source, Dependency, Constraint) are lenses for looking at a condition, and they are distinct from the frame.
+
+*A useful next step: find your situation below.*
+
+---
+
 ## Find Your Situation
 
-**You do not need to read all of HEE. Find the sentence that sounds like your week, ask the question beside it, and open the one tool it points to.**
+**Start with your work.** You do not need to learn HEE’s terms first. Bring one situation, read a relevant example, and use the questions that help you decide what to do next. HEE puts lessons from practice in order. Use it together with the methods you already use. Read more only when your situation needs it.
+
+Ask the question beside the sentence that sounds like your week, and open the one tool it points to.
 
 | Your situation | Ask this first | What you will explore | Start here |
 | --- | --- | --- | --- |
@@ -59,9 +79,11 @@ This Profile is the top-level navigation document for HEE; the Core README is au
 
 **Feeling worn down at work?** Start by examining work demands and conditions. See [Three rules that do not bend](https://github.com/titumozammel/human-energy-economics#three-rules-that-do-not-bend-h).
 
-Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) includes a one-page **Use it today** card, after its Reader’s guide: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
+Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) opens with a one-page **Use it today** card: when to use it, three questions, and a worked example explained step by step. Two Checks is a section of the Core README. The examples are marked **[Illustrative]**: they are invented to show the thinking, not reported results. Prefer to start from a question instead of a situation? See **Find Your Question**.
 
 **What you will find is a better question about your own situation. The decision stays yours.**
+
+*One situation → a relevant example → a useful question → a next step your evidence supports.*
 
 ---
 
@@ -82,7 +104,7 @@ Each of the five companion repositories (HEEn, OSF, EES, 3C, and 5R) includes a 
 | Does practice meet the stated requirement? | Verify practice | Auditors, risk teams, and independent reviewers | [Diagnosis and audit route](https://github.com/titumozammel/human-energy-economics#diagnosis-and-audit-route-h): criteria, traceable evidence, and findings; then, to check whether a diagnosis has a defensible evidence trail, the [independent review checklist](https://github.com/titumozammel/human-energy-economics#independent-review-checklist-h) | Accept, correct, escalate, or investigate |
 | What does HEE add, and what is the evidence behind it? | Assess contribution | Academics | [What HEE contributes](https://github.com/titumozammel/human-energy-economics#2-what-does-hee-contribute): the additions; then the [evidence map](https://github.com/titumozammel/human-energy-economics#14-evidence-map-research-facing) for their boundaries | Which contribution claims warrant comparison or testing |
 | How can a claim be tested? | Design research | Researchers and independent reviewers | [Falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p): research designs and revision conditions | Which study can support, narrow, or challenge a claim |
-| What do the practice cases actually establish? | Assess practice evidence | Practitioners, academics, and researchers | [AKG Record](https://github.com/titumozammel/hee-case-studies): six author-reported cases, with unavailable fields marked Not recorded | Whether a case informs application or only a hypothesis |
+| What do the practice cases actually establish? | Assess practice evidence | Practitioners, academics, and researchers | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies): eight examples from the author’s experience, with unavailable fields marked Not recorded | Whether a case informs application or only a hypothesis |
 
 This table is a summary of common questions; no table can list every question you may have. It is a public-facing subset. The Core README’s question map, with stable question IDs (A1, B1, and so on), is authoritative: it lists each question with its primary function, who asks it, where it is answered, and the decision it unlocks, and it routes job-role questions (finance, HR, operations, IT, risk, and others) to the right section.
 
@@ -96,7 +118,7 @@ This table is a summary of common questions; no table can list every question yo
 |---|---|---|
 | [Author GitHub Profile](https://github.com/titumozammel) | The originator's profile and repositories | See the author's other work |
 | [Human Energy Economics (Core README)](https://github.com/titumozammel/human-energy-economics) (authoritative) | Full concepts, diagnostic logic, decision architecture, evidence boundaries, and research designs | Understand HEE in depth, or check what it does and does not claim |
-| [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | The AKG Record: six author-reported operating cases from Abul Khair Group. A practice record that generates hypotheses; it is not proof | See HEE applied, and what the cases do and do not establish |
+| [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | Eight examples from the author’s experience: one from RR Transport, one from Bismillah Transport, and six from Abul Khair Group. A practice record that generates hypotheses; it is not proof | See HEE applied, and what the cases do and do not establish |
 | [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Recurring demand, noise, or complexity that consumes capacity | Work out why recurring demand keeps consuming capacity |
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Source, Dependency, Constraint | Frame where a condition comes from, what depends on it, and what limits action |
 | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Remove, Reduce, Replace, Re-engineer, Retain | Test whether recurring work is necessary and how it could change |
@@ -115,7 +137,7 @@ Human Energy Economics (HEE) is a capacity lens informed by economic questions a
 
 *Practice-driven* means derived from practice (organizational problems, observations, and experience), applied in the author’s practice (author-reported), and designed for practitioners (investigation, evidence gathering, decisions, and review). The [Core README](https://github.com/titumozammel/human-energy-economics#4-core-definitions) holds the full definition.
 
-HEE treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a proposed management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
+HEE treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
 **Precision statement.** HEE examines whether current results are being achieved at the expense of capacity needed for future work. It asks two separate questions, *Justified?* and *Covered?*; a justified expenditure can still leave a future-capacity shortfall. It is not a clinical tool, a compliance method, or a substitute for specialist judgment.
 
@@ -176,13 +198,13 @@ HEE is a practice-driven approach that works alongside existing management ideas
 | **Human Energy Leakage** | The mechanism: unnecessary consumption, diversion, fragmentation, or trapping of Human Energy. | *How it is lost.* The duplicate entry is the route by which those hours drain away. |
 | **Human Energy Liberation** | A way of investigating and redesigning the recurring unnecessary conditions that create or sustain leakage; an orientation, not a separate intervention. | *The direction of the response.* Ask why the duplicate step exists and redesign the condition that keeps it, rather than asking people to work harder around it. |
 
-*Note: Drain Condition, one of the seven diagnostic conditions named in step 3 of the Diagnostic Approach below, is where these terms are applied to a specific situation.*
+*Note: Drain Condition, one of the seven diagnostic conditions in the Diagnostic Approach below, is where these terms are applied to a specific situation.*
 
 *Definitions are in the [Core README](https://github.com/titumozammel/human-energy-economics#vocabulary-sheet-acronym-decoder-h).*
 
 ### 3. How do I apply it to my problem?
 
-**Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. The result of any management approach, including HEE, depends on the context. HEE therefore does not prescribe one uniform flow for every case.
+**Context shapes the route.** Every problem, situation, or condition has a context that matters to the decision. The result of any management approach, including HEE, depends on the context. *Context* here means the Time, Object, and Location frame described in [Start with your context](#start-with-your-context-when-what-and-where). HEE therefore does not prescribe one uniform flow for every case.
 
 Choose and combine its investigation routes according to the question: **Diagnose** to investigate possible causes, **Establish** to gather evidence needed for a defensible determination, and **Verify** to check practice against a stated standard. These routes are not compulsory sequential stages. Reconsider the route as evidence or conditions change.
 
@@ -263,6 +285,8 @@ The owner protects the justified response to demand and the correction of faulty
 
 A recovery plan makes renewal credible only when it is feasible, timely, resourced, and owned; its existence alone is insufficient, and it does not by itself make coverage sufficient. The accountable owner makes the judgment, and for consequential decisions a second person who does not own the result checks it. Tier 1 decisions (low stakes, easily reversed) do not require a second-person check; evidence and proportionate safeguards still apply. A Tier 1 call is self-assessed by the accountable owner. These are decision questions and states, not scores.
 
+*A useful next step: if either answer is Unknown, name the evidence needed, who gets it, and a decide-by date.*
+
 ---
 
 ## Three Investigation Routes: Diagnose, Establish, Verify
@@ -323,18 +347,18 @@ Record each conclusion as **supported, partly supported, unsupported, or unknown
 
 An organization may have capable people, sound strategies, adequate resources, and modern technology. The management question is how effectively these assets can be applied—and what conditions affect their continued availability and use.
 
-HEE uses six conditions of execution to structure inquiry:
+HEE uses six execution factors to structure inquiry:
 
 - **Demand** — the load placed on organizational capacity.
 - **Human Energy** — the cognitive, emotional, and physical capacity people bring to and require for work.
 - **Capability** — the potential to perform, solve, decide, or create.
 - **Connection** — whether distributed capability can work together and reach the point of need.
-- **Decision Process Quality** — whether decisions direct scarce capacity soundly in context: timely, evidence-informed, owned, with relevant options and uncertainty considered, and proportionate to the decision window and consequences.
+- **Decision Process Quality** — whether decisions direct scarce capacity soundly in context: timely, evidence-informed, owned, and proportionate to the decision window and consequences.
 - **Enablement** — whether organizational conditions permit capability to be applied.
 
 In short: capability is what people can do, capacity is how much of it can be applied, and enablement is the work conditions that let it be applied.
 
-These conditions help structure investigation; they do not, by themselves, establish a cause. The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
+These factors help structure investigation; they do not, by themselves, establish a cause. The practical discipline is to identify the limiting condition before selecting a response. More training may not solve disconnection. More pressure may worsen depletion. More resources may not remove a decision or enablement constraint.
 
 **Capability → Application → Execution → Value → Sustainable Growth.** This is an orientation aid, not an established causal sequence. Capability is potential, application is its use at the point of need, and execution is the carrying out of work to produce required outcomes. Each can fail without the next failing, and none establishes the next.
 
@@ -344,11 +368,11 @@ These conditions help structure investigation; they do not, by themselves, estab
 
 ### The Decision Point
 
-Consequential decisions should be explicit and reviewable. The Core README’s Decision Point asks four separate questions: was the decision **enabled** (decision rights, information, authority, access), how good was the **process**, was the **choice** appropriate given what could reasonably be known, and what was the **outcome**? They are assessed separately because a good outcome does not prove a sound process, and a poor outcome does not prove an unsound choice.
+Consequential decisions should be explicit and reviewable. In HEE, a decision is a choice about what to do, including waiting or taking no action. A reviewable decision records its reasons, evidence, and uncertainty in proportion to the stakes; a choice made without such a record is still a decision, but HEE cannot fully assess its basis. The Core README’s Decision Point asks four separate questions: was the decision **enabled** (decision rights, information, authority, access), how good was the **process**, was the **choice** appropriate given what could reasonably be known, and what was the **outcome**? They are assessed separately because a good outcome does not prove a sound process, and a poor outcome does not prove an unsound choice.
 
 **Where it connects.** Apply the Two Checks proportionately to decisions that affect capacity, and choose the investigation route (Diagnose, Establish, or Verify) that fits the question.
 
-**Speed.** The Core README grades a decision by stakes and reversibility. Tier 1 (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check. Higher tiers add an independent check and a decide-by date. The Core README’s [decision-ready test](https://github.com/titumozammel/human-energy-economics#2-the-decision-ready-test-h), five items checked before committing, and its stop rule, written before the pilot, are the practical core of this section. In your own review, check whether the aids speed decisions without lowering their quality.
+**Speed.** The Core README grades a decision by stakes and reversibility. Tier 1 (low stakes, easily reversed) is decided in the same sitting, with no full evidence log and no second-person check; a short record of the reasons and a review date still apply. Higher tiers add an independent check and a decide-by date. The Core README’s [decision-ready test](https://github.com/titumozammel/human-energy-economics#2-the-decision-ready-test-h), five items checked before committing, and its stop rule, written before the pilot, are the practical core of this section. In your own review, check whether the aids speed decisions without lowering their quality.
 
 *Full text: [The Decision Point](https://github.com/titumozammel/human-energy-economics#the-decision-point-hp) · [Decision Speed Card](https://github.com/titumozammel/human-energy-economics#decision-speed-card-h). If this summary and the Core README differ, the Core README governs.*
 
@@ -372,7 +396,7 @@ EX and CX are evidence about that conversion, to be examined alongside process a
 
 **What it is not.** HEE is not a clinical tool, a measure of human energy, a replacement for existing methods, a compliance or audit substitute, or a claim that every execution problem is a capacity problem. It is not the primary tool for a question that is mainly legal, technical, financial-reporting, or market-related; specialist judgment governs those. When such a question also affects capacity or demand, HEE can accompany the specialist work, not replace it. The full statement is in [What HEE does and does not claim](https://github.com/titumozammel/human-energy-economics#what-hee-does-and-does-not-claim).
 
-**Test it, challenge it.** Readers are invited to test HEE in their own setting and to say so if a claim looks wrong or unjustified. Researchers can start with the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p) and the [combined Stage 0 study](https://github.com/titumozammel/human-energy-economics#if-only-one-study-can-be-funded-combined-stage-0-study-p); other claims need their own research routes. Qualified researchers are invited to write to the author about structured protocol testing. The AKG Record is an author-reported practice record and is not available as a research dataset in this edition.
+**Test it, challenge it.** Readers are invited to test HEE in their own setting and to say so if a claim looks wrong or unjustified. Researchers can start with the [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p) and the [combined Stage 0 study](https://github.com/titumozammel/human-energy-economics#if-only-one-study-can-be-funded-combined-stage-0-study-p); other claims need their own research routes. Qualified researchers are invited to write to the author about structured protocol testing. HEE Case Studies is an author-reported practice record and is not available as a research dataset in this edition.
 
 ---
 
@@ -383,9 +407,15 @@ EX and CX are evidence about that conversion, to be examined alongside process a
 
 *Status: Public-facing introduction to a practice-driven management approach, in line with Version 1.0 of the Core README. The Core README is authoritative for full definitions, classifications, research propositions, methods, and limitations. If the profile and Core README differ, the Core README governs.*
 
-**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I summarized and scoped my experience, knowledge, and wisdom as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ---
+
+## Revision notes
+
+Edition: Version 1.0 · 31 October 2026. The edition details stay the same; changes after that date are listed here.
+
+- **14 November 2026.** Added a short “Start with your work” note before Find Your Situation, and a one-line first-action route, so new readers can start with one situation. Added a short note explaining the two evidence labels used in this Profile, [Illustrative] and [H].
 
 ## LICENSE
 
