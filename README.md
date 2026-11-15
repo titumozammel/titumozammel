@@ -18,7 +18,7 @@ HEE draws on the author’s experience, knowledge, and wisdom, including applica
 
 **Evidence labels in this Profile:** [Illustrative] means an invented example. [H] means a practice heuristic, a rule of thumb from practice. The Core README defines all three labels, including [P] for untested claims.
 
-**Jump to:** [Reader’s guide](#readers-guide) · [Start with your context](#start-with-your-context-when-what-and-where) · [Find Your Situation](#find-your-situation) · [Find Your Question](#find-your-question) · [Explore HEE](#explore-hee) · [Two Checks](#two-checks-shortfall-or-justified-spending) · [Three Investigation Routes](#three-investigation-routes-diagnose-establish-verify) · [Better, Faster Decisions](#better-faster-decisions) · [Evidence note](#what-hee-isand-is-not) · [LICENSE](#license)
+**Start here:** **[Find Your Situation](#find-your-situation)** is the front door: the sentence that sounds like your week, with the tool beside it. Then use the [Reader’s guide](#readers-guide) for your role, or [Find Your Question](#find-your-question). The other sections, such as [Start with your context](#start-with-your-context-when-what-and-where), [Explore HEE](#explore-hee), [Two Checks](#two-checks-shortfall-or-justified-spending), [Three Investigation Routes](#three-investigation-routes-diagnose-establish-verify), [Better, Faster Decisions](#better-faster-decisions), the [Evidence note](#what-hee-isand-is-not), and the [LICENSE](#license), are reached from these.
 
 ---
 
