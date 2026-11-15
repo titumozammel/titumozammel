@@ -400,7 +400,7 @@ EX and CX are evidence about that conversion, to be examined alongside process a
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-*Profile Edition · Version 1.0 · 31 October 2026*
+*Profile Edition · Version 1.0 · 31 October 2026 (initial publication date, not the latest revision date; changes since then are recorded in the repository’s commit history)*
 
 *Status: Public-facing introduction to a practice-driven management approach, in line with Version 1.0 of the Core README. The Core README is authoritative for full definitions, classifications, research propositions, methods, and limitations. If the profile and Core README differ, the Core README governs.*
 
@@ -409,13 +409,6 @@ EX and CX are evidence about that conversion, to be examined alongside process a
 **A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my experience, knowledge, and wisdom as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ---
-
-## Revision notes
-
-Edition: Version 1.0 · 31 October 2026. The edition details stay the same; changes after that date are listed here.
-
-- **14 November 2026.** Added a short “Start with your work” note before Find Your Situation, and a one-line first-action route, so new readers can start with one situation. Added a short note explaining the two evidence labels used in this Profile, [Illustrative] and [H].
-- **15 November 2026.** Removed the academic and researcher rows and two research questions from the main reading path, and left one link to the Core’s new Research notes for readers who want to examine or test HEE. The Core’s evidence map is now called “Related ideas and questions for comparison—to be checked”, and the link text was updated; the link addresses stay the same. Added a pointer to the Core’s §6a for the second-person check, the five decision-ready items inline, the “seven conditions are not seven equivalent causes” line, and a link to the author’s note from the evidence note; moved the “start with the right-hand column” instruction above its table; and changed the practice-cases row so it no longer names academics and researchers as askers. Added a short paragraph saying that HEE organizes how the author works in practice, and changed “summarized and scoped” to “organized and scoped” in the author’s note. Added a Research notes row to Explore HEE, a plain line in the Reader’s guide for readers who want to check or test a claim, and a short note on what the second-person check reviews. The evidence-label note now says the Core defines all three labels, including [P]. Added one sentence to the opening paragraph saying that HEE includes practical questions, methods, and judgment.
 
 ## LICENSE
 
