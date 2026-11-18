@@ -52,9 +52,9 @@ In the author’s practice, context guides the focus and shapes the questions. E
 
 ![Roadmap. Start with your objective: what result matters? Results fall short or cannot be sustained. Examine the context. Then look at four areas: Capability, can we do it; Capacity, do we have enough usable capacity; Enablement, can capability be applied; Connection, can capabilities work together. Gather evidence on what needs attention. Choose a response: change, retain, investigate or pause. Review whether the result was achieved and the next cycle is covered. Learn and reassess, then return to the context.](hee-roadmap.png)
 
-*Areas for inquiry, not a complete diagnosis. The four areas offer a first look; the six execution factors in [What Determines the Capacity Behind Results?](#what-determines-the-capacity-behind-results) support a broader examination. Evidence may point to other conditions.*
+*A starting map for inquiry, not a complete diagnosis. The four areas provide a first look; the [broader six-condition examination](#what-determines-the-capacity-behind-results) also includes Demand and Decision Process Quality. Evidence may identify other conditions.*
 
-*Enter at the box that fits your situation. The dashed line shows review and learning feeding the next inquiry. Apply the Two Checks when choosing a response and again at review. The Core’s [six practitioner moves](https://github.com/titumozammel/human-energy-economics#the-six-practitioner-moves-h) give the full process.*
+*Follow the route shown or begin at the box relevant to your situation. Apply the Two Checks when choosing a response and at review. The dashed line returns learning to context; the Core’s [six practitioner moves](https://github.com/titumozammel/human-energy-economics#the-six-practitioner-moves-h) provide the full process.*
 
 *A useful next step: find your situation below.*
 
