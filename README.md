@@ -142,7 +142,7 @@ Human Energy Economics (HEE) is a capacity lens (a way of looking at capacity) i
 
 HEE treats human energy (the cognitive, emotional, and physical capacity people bring to work) as a management resource that can be consumed, depleted, protected, and renewed. **Capability** is what people can do; **capacity** is how much of it can be applied; **enablement** is the work conditions that let it be applied.
 
-**The approach:** HEE does not offer one formula for every situation. It helps you organize your questions, use evidence and judgment, and review what fits your context. It supports judgment; it does not replace it.
+**An approach supported by checklists.** HEE starts with context and uses evidence to examine the questions that matter. Its checklists help avoid omissions and record reasoning; they do not determine the answer.
 
 **Core idea.** Organizations do not sustain performance merely by possessing resources, people, or capability. They sustain it by preserving, developing, connecting, enabling, mobilizing, and applying those assets repeatedly, without unnecessarily degrading the capacity required to do it again. *Extraction depletes. Cultivation compounds.*
 
@@ -196,7 +196,7 @@ flowchart LR
     E -. "next cycle" .-> A
 ```
 
-Apply the two checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask the second canonical question: **Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?**
+Apply the Two Checks twice: before choosing an action (step 4; would the expenditure be *Justified?* would next cycle’s demand stay *Covered?*) and against actual expenditure and coverage (step 5). A defensible decision may retain the current arrangement, request more evidence, or take precautionary action. When the evidence points to a change, ask the second canonical question: **Which condition, if any, must change next—and would that change protect, renew, or consume the next cycle’s capacity?**
 
 **Signature question:** *What prevents the capability we have from becoming execution—and what must change next?* Its companion “limits form,” used when the evidence points to a boundary or constraint, is: *What limits the capability we have from becoming execution—and what must change next?*
 
@@ -278,7 +278,7 @@ The owner protects the justified response to demand and the correction of faulty
 
 **A learning example [Illustrative].** The numbers are invented. A student studies until midnight for a week to finish a project by its deadline. *Justified?* Partly: the deadline was real, but about a third of the late hours went on recopying notes that a simple outline would have avoided. *Covered?* Next week's exams need about 10 hours of study, and the student, tired from the week, can credibly give six usable hours after allowing for recovery and other commitments. That is Not covered. The student protects sleep, moves non-essential tasks, and asks the teacher whether any exam preparation can be spread out, then reviews at the end of next week whether the plan held. The same two questions work in other settings. Adapt the words to the learner's age and context; a younger student may answer the second question with a teacher or parent.
 
-**Read the two checks together.** Justified and Covered is justified expenditure. Justified and Not covered is justified spending with a candidate future shortfall. Not or partly justified and Covered is a drain candidate; coverage alone does not determine urgency. Check other risks and safeguards. Not or partly justified and Not covered is high priority.
+**Read the Two Checks together.** Justified and Covered is justified expenditure. Justified and Not covered is justified spending with a candidate future shortfall. Not or partly justified and Covered is a drain candidate; coverage alone does not determine urgency. Check other risks and safeguards. Not or partly justified and Not covered is high priority.
 
 A recovery plan makes renewal credible only when it is feasible, timely, resourced, and owned; its existence alone is insufficient, and it does not by itself make coverage sufficient. The accountable owner makes the judgment, and for consequential decisions a second person who does not own the result checks it (they review the judgments of Justified? and Covered?; the Core’s [§6a](https://github.com/titumozammel/human-energy-economics#6a-justified-capacity-expenditure-versus-future-capacity-shortfall) gives the reasoning). Tier 1 decisions (low stakes, easily reversed) do not require a second-person check; evidence and proportionate safeguards still apply. A Tier 1 call is self-assessed by the accountable owner. These are decision questions and states, not scores.
 
