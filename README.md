@@ -4,6 +4,8 @@
 
 **Is today’s result being paid for with tomorrow’s capacity?**
 
+*A practice-driven management approach to execution and the capacity needed for tomorrow.*
+
 Extra hours can be justified and still leave next month’s demand uncovered. HEE keeps two questions separate: *Was the capacity spent justified? Is the next cycle covered?* It starts with your situation and works alongside the methods you already use. The decision stays yours.
 
 Human Energy Economics (HEE) is a practice-driven management approach that brings execution conditions, capacity spending and next-cycle coverage into one inquiry. Capacity means the time, attention and energy available for the work.
@@ -138,7 +140,7 @@ In the author’s practice, context guides the focus and shapes the questions. E
 
 ### 1. What is HEE?
 
-Human Energy Economics (HEE) is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. The word *Economics* in the name refers to those questions: HEE does not present a formal economic model or claim predictive economic validity. It is a practice-driven management approach to organizational capacity and sustainable execution.
+Human Energy Economics (HEE) is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. The word *Economics* in the name refers to those questions: HEE does not present a formal economic model or claim predictive economic validity. It is a practice-driven management approach to execution and the capacity needed for tomorrow.
 
 *Practice-driven* means it comes from practice, was tested in the author’s practice (author-reported), and is designed for practitioners. The [Core README](https://github.com/titumozammel/human-energy-economics#4-core-definitions) holds the full definition.
 
